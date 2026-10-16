@@ -13,9 +13,21 @@
         "datePublished": "2026-05-26",
         "dateModified": "2026-10-10",
         "doi": "10.5281/zenodo.20443605",
-        "sameAs": ["https://doi.org/10.5281/zenodo.20443605", "https://zenodo.org/doi/10.5281/zenodo.20443605"],
-        "author": {"@type": "Person", "name": "Jesús Patricio Blasco Valencia", "identifier": "https://orcid.org/0009-0002-4839-104X"},
-        "publisher": {"@type": "Organization", "name": "Tiempos Sustentables", "url": "https://tiempossustentables.cl/"},
+        "sameAs": [
+          "https://doi.org/10.5281/zenodo.20443605",
+          "https://zenodo.org/doi/10.5281/zenodo.20443605",
+          "https://tiempossustentables.cl/wp-content/uploads/2026/05/guia-estrategica-de-negocios-y-finanzas-sostenibles-para-el-liderazgo-comercial-latinoamericano.pdf"
+        ],
+        "author": {
+          "@type": "Person",
+          "name": "Jesús Patricio Blasco Valencia",
+          "identifier": "https://orcid.org/0009-0002-4839-104X"
+        },
+        "publisher": {
+          "@type": "Organization",
+          "name": "Tiempos Sustentables",
+          "url": "https://tiempossustentables.cl/"
+        },
         "license": "https://creativecommons.org/licenses/by/4.0/"
       }
     },
@@ -27,9 +39,21 @@
         "datePublished": "2026-05-28",
         "dateModified": "2026-10-10",
         "doi": "10.17605/OSF.IO/CXZMJ",
-        "sameAs": ["https://doi.org/10.17605/OSF.IO/CXZMJ", "https://osf.io/cxzmj"],
-        "author": {"@type": "Person", "name": "Jesús Patricio Blasco Valencia", "identifier": "https://orcid.org/0009-0002-4839-104X"},
-        "publisher": {"@type": "Organization", "name": "Tiempos Sustentables", "url": "https://tiempossustentables.cl/"},
+        "sameAs": [
+          "https://doi.org/10.17605/OSF.IO/CXZMJ",
+          "https://osf.io/cxzmj",
+          "https://tiempossustentables.cl/wp-content/uploads/2026/05/brand-finance-2026-arquitectura-de-valor.pdf"
+        ],
+        "author": {
+          "@type": "Person",
+          "name": "Jesús Patricio Blasco Valencia",
+          "identifier": "https://orcid.org/0009-0002-4839-104X"
+        },
+        "publisher": {
+          "@type": "Organization",
+          "name": "Tiempos Sustentables",
+          "url": "https://tiempossustentables.cl/"
+        },
         "license": "https://creativecommons.org/licenses/by/4.0/"
       }
     },
@@ -41,9 +65,21 @@
         "datePublished": "2026-09-01",
         "dateModified": "2026-10-10",
         "doi": "10.17605/OSF.IO/PKY85",
-        "sameAs": ["https://doi.org/10.17605/OSF.IO/PKY85", "https://osf.io/pky85"],
-        "author": {"@type": "Person", "name": "Jesús Patricio Blasco Valencia", "identifier": "https://orcid.org/0009-0002-4839-104X"},
-        "publisher": {"@type": "Organization", "name": "Tiempos Sustentables", "url": "https://tiempossustentables.cl/"},
+        "sameAs": [
+          "https://doi.org/10.17605/OSF.IO/PKY85",
+          "https://osf.io/pky85",
+          "https://tiempossustentables.cl/wp-content/uploads/2026/09/economia-circular-chile-latam.pdf"
+        ],
+        "author": {
+          "@type": "Person",
+          "name": "Jesús Patricio Blasco Valencia",
+          "identifier": "https://orcid.org/0009-0002-4839-104X"
+        },
+        "publisher": {
+          "@type": "Organization",
+          "name": "Tiempos Sustentables",
+          "url": "https://tiempossustentables.cl/"
+        },
         "license": "https://creativecommons.org/licenses/by/4.0/"
       }
     },
@@ -55,9 +91,20 @@
         "datePublished": "2026-07-29",
         "dateModified": "2026-10-10",
         "doi": "10.17605/OSF.IO/TYRH7",
-        "sameAs": ["https://doi.org/10.17605/OSF.IO/TYRH7", "https://osf.io/tyrh7"],
-        "author": {"@type": "Person", "name": "Jesús Patricio Blasco Valencia", "identifier": "https://orcid.org/0009-0002-4839-104X"},
-        "publisher": {"@type": "Organization", "name": "Tiempos Sustentables", "url": "https://tiempossustentables.cl/"},
+        "sameAs": [
+          "https://doi.org/10.17605/OSF.IO/TYRH7",
+          "https://osf.io/tyrh7"
+        ],
+        "author": {
+          "@type": "Person",
+          "name": "Jesús Patricio Blasco Valencia",
+          "identifier": "https://orcid.org/0009-0002-4839-104X"
+        },
+        "publisher": {
+          "@type": "Organization",
+          "name": "Tiempos Sustentables",
+          "url": "https://tiempossustentables.cl/"
+        },
         "license": "https://creativecommons.org/licenses/by/4.0/"
       }
     },
@@ -68,8 +115,16 @@
         "url": "https://tiempossustentables.cl/el-nuevo-paradigma-de-la-sostenibilidad/",
         "datePublished": "2026-09-28",
         "dateModified": "2026-10-10",
-        "author": {"@type": "Person", "name": "Jesús Patricio Blasco Valencia", "identifier": "https://orcid.org/0009-0002-4839-104X"},
-        "publisher": {"@type": "Organization", "name": "Tiempos Sustentables", "url": "https://tiempossustentables.cl/"},
+        "author": {
+          "@type": "Person",
+          "name": "Jesús Patricio Blasco Valencia",
+          "identifier": "https://orcid.org/0009-0002-4839-104X"
+        },
+        "publisher": {
+          "@type": "Organization",
+          "name": "Tiempos Sustentables",
+          "url": "https://tiempossustentables.cl/"
+        },
         "license": "https://creativecommons.org/licenses/by/4.0/"
       }
     },
@@ -82,9 +137,21 @@
         "datePublished": "2026-09-02",
         "dateModified": "2026-10-10",
         "doi": "10.13140/RG.2.2.19546.50880",
-        "sameAs": ["https://doi.org/10.13140/RG.2.2.19546.50880", "https://www.researchgate.net/publication/413879666_Tiempos_Sustentables_y_la_Arquitectura_de_Valor/"],
-        "author": {"@type": "Person", "name": "Jesús Patricio Blasco Valencia", "identifier": "https://orcid.org/0009-0002-4839-104X"},
-        "publisher": {"@type": "Organization", "name": "Tiempos Sustentables", "url": "https://tiempossustentables.cl/"},
+        "sameAs": [
+          "https://doi.org/10.13140/RG.2.2.19546.50880",
+          "https://www.researchgate.net/publication/413879666_Tiempos_Sustentables_y_la_Arquitectura_de_Valor/",
+          "https://upload.wikimedia.org/wikipedia/commons/2/29/Tiempos_Sustentables_y_la_Arquitectura_de_Valor.pdf"
+        ],
+        "author": {
+          "@type": "Person",
+          "name": "Jesús Patricio Blasco Valencia",
+          "identifier": "https://orcid.org/0009-0002-4839-104X"
+        },
+        "publisher": {
+          "@type": "Organization",
+          "name": "Tiempos Sustentables",
+          "url": "https://tiempossustentables.cl/"
+        },
         "license": "https://creativecommons.org/licenses/by/4.0/"
       }
     },
@@ -93,15 +160,33 @@
         "@type": ["ScholarlyArticle", "Thesis"],
         "name": "La Autosegmentación en las Redes Verticales",
         "url": "https://tiempossustentables.cl/autosegmentacion-redes-verticales/",
-        "datePublished": "2010",
+        "datePublished": "2010-01-01",
         "doi": "10.13140/RG.2.2.34373.20969",
-        "sameAs": ["https://doi.org/10.13140/RG.2.2.34373.20969", "https://www.researchgate.net/doi/10.13140/RG.2.2.34373.20969"],
-        "author": [
-          {"@type": "Person", "name": "Jesús Patricio Blasco Valencia", "identifier": "https://orcid.org/0009-0002-4839-104X"},
-          {"@type": "Person", "name": "Julio Orellana"},
-          {"@type": "Person", "name": "Hiang Melcher"}
+        "sameAs": [
+          "https://doi.org/10.13140/RG.2.2.34373.20969",
+          "https://www.researchgate.net/doi/10.13140/RG.2.2.34373.20969",
+          "https://tiempossustentables.cl/wp-content/uploads/2026/07/autosegmentacion-redes-verticales.pdf"
         ],
-        "publisher": {"@type": "Organization", "name": "Universidad Andrés Bello", "url": "https://www.unab.cl/"},
+        "author": [
+          {
+            "@type": "Person",
+            "name": "Jesús Patricio Blasco Valencia",
+            "identifier": "https://orcid.org/0009-0002-4839-104X"
+          },
+          {
+            "@type": "Person",
+            "name": "Julio Orellana"
+          },
+          {
+            "@type": "Person",
+            "name": "Hiang Melcher"
+          }
+        ],
+        "publisher": {
+          "@type": "Organization",
+          "name": "Universidad Andrés Bello",
+          "url": "https://www.unab.cl/"
+        },
         "license": "https://creativecommons.org/licenses/by/4.0/"
       }
     }
