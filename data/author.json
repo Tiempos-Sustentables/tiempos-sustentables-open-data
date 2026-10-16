@@ -1,0 +1,30 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Person",
+  "name": "Jesús Patricio Blasco Valencia",
+  "alternateName": ["Jesús Blasco", "Jesús P. Blasco Valencia", "J. P. Blasco Valencia"],
+  "url": "https://tiempossustentables.cl/jesus-blasco/",
+  "identifier": "https://orcid.org/0009-0002-4839-104X",
+  "orcid": "0009-0002-4839-104X",
+  "jobTitle": "Director de Tiempos Sustentables",
+  "description": "Fractional CRO y estratega de triple impacto. Director de Tiempos Sustentables, especialista en sostenibilidad corporativa, ESG, finanzas sostenibles, economía circular, Business Analytics y transformación digital.",
+  "worksFor": {
+    "@type": "Organization",
+    "name": "Tiempos Sustentables",
+    "url": "https://tiempossustentables.cl/"
+  },
+  "address": {
+    "@type": "PostalAddress",
+    "addressLocality": "Santiago",
+    "addressRegion": "Región Metropolitana",
+    "addressCountry": "CL"
+  },
+  "knowsAbout": ["Sostenibilidad corporativa", "ESG", "Doble materialidad", "Finanzas sostenibles", "Economía circular", "Gobernanza corporativa", "Estrategia comercial", "Business Analytics", "Transformación digital", "Arquitectura de Valor"],
+  "sameAs": [
+    "https://www.linkedin.com/in/jesusblasco/",
+    "https://orcid.org/0009-0002-4839-104X",
+    "https://scholar.google.com/citations?user=i1hEvu4AAAAJ&hl=es",
+    "https://www.wikidata.org/wiki/Q141323847"
+  ],
+  "dateModified": "2026-10-16"
+}

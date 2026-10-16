@@ -1,0 +1,63 @@
+{
+  "@context": "https://schema.org",
+  "@type": "DataFeed",
+  "name": "Recursos del Centro de Recursos y Transparencia de Tiempos Sustentables",
+  "dateModified": "2026-10-16",
+  "license": "https://creativecommons.org/licenses/by/4.0/",
+  "dataFeedElement": [
+    {
+      "item": {
+        "@type": ["CollectionPage", "WebPage"],
+        "name": "Centro de Recursos y Transparencia",
+        "url": "https://tiempossustentables.cl/centro-de-recursos/",
+        "description": "Repositorio abierto con métricas, marcos ESG, informes, publicaciones y tendencias para Chile y América Latina.",
+        "inLanguage": "es",
+        "license": "https://creativecommons.org/licenses/by/4.0/"
+      }
+    },
+    {
+      "item": {
+        "@type": "Dataset",
+        "name": "Regulaciones y Estándares ESG",
+        "url": "https://tiempossustentables.cl/centro-de-recursos/#regulaciones-marcos-esg",
+        "description": "Base de marcos regulatorios y estándares ESG aplicables a Chile y América Latina.",
+        "keywords": ["Ley REP", "NCG 461", "GRI", "IFRS", "SBTi"],
+        "spatialCoverage": "Chile y América Latina",
+        "license": "https://creativecommons.org/licenses/by/4.0/"
+      }
+    },
+    {
+      "item": {
+        "@type": ["WebApplication", "SoftwareApplication"],
+        "name": "ESG Trends Radar",
+        "url": "https://tiempossustentables.cl/centro-de-recursos/#esg-trends-radar",
+        "description": "Índice de tendencias y búsquedas corporativas ESG en América Latina.",
+        "applicationCategory": "BusinessApplication",
+        "operatingSystem": "Web",
+        "license": "https://creativecommons.org/licenses/by/4.0/"
+      }
+    },
+    {
+      "item": {
+        "@type": "Dataset",
+        "name": "ESG Trends Radar Dataset",
+        "url": "https://tiempossustentables.cl/centro-de-recursos/#esg-trends-radar",
+        "description": "Conjunto de tendencias ESG, búsquedas corporativas y señales de mercado para América Latina.",
+        "keywords": ["Tendencias ESG", "Búsquedas corporativas", "Descarbonización", "Economía circular", "Sostenibilidad corporativa"],
+        "spatialCoverage": "América Latina",
+        "license": "https://creativecommons.org/licenses/by/4.0/"
+      }
+    },
+    {
+      "item": {
+        "@type": ["WebApplication", "SoftwareApplication"],
+        "name": "Herramienta de Diagnóstico para Empresas",
+        "url": "https://diagnostico.tiempossustentables.cl/",
+        "description": "Plataforma de autoevaluación gratuita para identificar brechas y oportunidades ESG.",
+        "applicationCategory": "BusinessApplication",
+        "operatingSystem": "Web",
+        "license": "https://creativecommons.org/licenses/by/4.0/"
+      }
+    }
+  ]
+}
