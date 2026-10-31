@@ -1,59 +1,31 @@
 {
   "@context": "https://schema.org",
   "@type": "DataFeed",
-  "name": "Catálogo de publicaciones de Tiempos Sustentables",
-  "dateModified": "2026-10-16",
+  "name": "Catálogo de publicaciones y registros digitales de Tiempos Sustentables",
+  "dateModified": "2026-10-31",
   "license": "https://creativecommons.org/licenses/by/4.0/",
   "dataFeedElement": [
     {
       "item": {
         "@type": ["Report", "ScholarlyArticle"],
-        "name": "Guía Estratégica de Negocios y Finanzas Sostenibles para el Liderazgo Comercial Latinoamericano",
-        "url": "https://tiempossustentables.cl/arquitectura-valor/",
-        "datePublished": "2026-05-26",
-        "dateModified": "2026-10-10",
-        "doi": "10.5281/zenodo.20443605",
-        "sameAs": [
-          "https://doi.org/10.5281/zenodo.20443605",
-          "https://zenodo.org/doi/10.5281/zenodo.20443605",
-          "https://tiempossustentables.cl/wp-content/uploads/2026/05/guia-estrategica-de-negocios-y-finanzas-sostenibles-para-el-liderazgo-comercial-latinoamericano.pdf"
-        ],
-        "author": {
-          "@type": "Person",
-          "name": "Jesús Patricio Blasco Valencia",
-          "identifier": "https://orcid.org/0009-0002-4839-104X"
-        },
-        "publisher": {
-          "@type": "Organization",
-          "name": "Tiempos Sustentables",
-          "url": "https://tiempossustentables.cl/"
-        },
-        "license": "https://creativecommons.org/licenses/by/4.0/"
-      }
-    },
-    {
-      "item": {
-        "@type": "ScholarlyArticle",
         "name": "Brand Finance Global 500 2026 bajo la Arquitectura de Valor",
         "url": "https://tiempossustentables.cl/brand-finance-2026-valor-marca-sostenibilidad/",
         "datePublished": "2026-05-28",
-        "dateModified": "2026-10-10",
+        "dateModified": "2026-10-31",
         "doi": "10.17605/OSF.IO/CXZMJ",
+        "guid": "CHW3J",
+        "guid_doi": "10.17605/OSF.IO/CHW3J",
+        "documentation_url": "https://archive.org/details/osf-registrations-chw3j-v1",
+        "repository": "Internet Archive",
         "sameAs": [
           "https://doi.org/10.17605/OSF.IO/CXZMJ",
           "https://osf.io/cxzmj",
+          "https://doi.org/10.17605/OSF.IO/CHW3J",
+          "https://archive.org/details/osf-registrations-chw3j-v1",
           "https://tiempossustentables.cl/wp-content/uploads/2026/05/brand-finance-2026-arquitectura-de-valor.pdf"
         ],
-        "author": {
-          "@type": "Person",
-          "name": "Jesús Patricio Blasco Valencia",
-          "identifier": "https://orcid.org/0009-0002-4839-104X"
-        },
-        "publisher": {
-          "@type": "Organization",
-          "name": "Tiempos Sustentables",
-          "url": "https://tiempossustentables.cl/"
-        },
+        "author": {"@type":"Person","name":"Jesús Patricio Blasco Valencia","identifier":"https://orcid.org/0009-0002-4839-104X"},
+        "publisher": {"@type":"Organization","name":"Tiempos Sustentables","url":"https://tiempossustentables.cl/"},
         "license": "https://creativecommons.org/licenses/by/4.0/"
       }
     },
@@ -63,23 +35,21 @@
         "name": "Economía Circular en Chile y América Latina: Arquitectura Regulatoria, Innovación Tecnológica y Valor ESG hacia 2026",
         "url": "https://tiempossustentables.cl/economia-circular-chile-latam/",
         "datePublished": "2026-09-01",
-        "dateModified": "2026-10-10",
+        "dateModified": "2026-10-31",
         "doi": "10.17605/OSF.IO/PKY85",
+        "guid": "Q57PZ",
+        "guid_doi": "10.17605/OSF.IO/Q57PZ",
+        "documentation_url": "https://archive.org/details/osf-registrations-q57pz-v1",
+        "repository": "Internet Archive",
         "sameAs": [
           "https://doi.org/10.17605/OSF.IO/PKY85",
           "https://osf.io/pky85",
+          "https://doi.org/10.17605/OSF.IO/Q57PZ",
+          "https://archive.org/details/osf-registrations-q57pz-v1",
           "https://tiempossustentables.cl/wp-content/uploads/2026/09/economia-circular-chile-latam.pdf"
         ],
-        "author": {
-          "@type": "Person",
-          "name": "Jesús Patricio Blasco Valencia",
-          "identifier": "https://orcid.org/0009-0002-4839-104X"
-        },
-        "publisher": {
-          "@type": "Organization",
-          "name": "Tiempos Sustentables",
-          "url": "https://tiempossustentables.cl/"
-        },
+        "author": {"@type":"Person","name":"Jesús Patricio Blasco Valencia","identifier":"https://orcid.org/0009-0002-4839-104X"},
+        "publisher": {"@type":"Organization","name":"Tiempos Sustentables","url":"https://tiempossustentables.cl/"},
         "license": "https://creativecommons.org/licenses/by/4.0/"
       }
     },
@@ -89,22 +59,67 @@
         "name": "Doble materialidad ESG: el puente entre reporting y rentabilidad en América Latina",
         "url": "https://tiempossustentables.cl/doble-materialidad-esg-reporting-rentabilidad-latam/",
         "datePublished": "2026-07-29",
-        "dateModified": "2026-10-10",
+        "dateModified": "2026-10-31",
         "doi": "10.17605/OSF.IO/TYRH7",
+        "guid": "BSED6",
+        "guid_doi": "10.17605/OSF.IO/BSED6",
+        "documentation_url": "https://archive.org/details/osf-registrations-bsed6-v1",
+        "repository": "Internet Archive",
         "sameAs": [
           "https://doi.org/10.17605/OSF.IO/TYRH7",
-          "https://osf.io/tyrh7"
+          "https://osf.io/tyrh7",
+          "https://doi.org/10.17605/OSF.IO/BSED6",
+          "https://archive.org/details/osf-registrations-bsed6-v1"
         ],
-        "author": {
-          "@type": "Person",
-          "name": "Jesús Patricio Blasco Valencia",
-          "identifier": "https://orcid.org/0009-0002-4839-104X"
-        },
-        "publisher": {
-          "@type": "Organization",
-          "name": "Tiempos Sustentables",
-          "url": "https://tiempossustentables.cl/"
-        },
+        "author": {"@type":"Person","name":"Jesús Patricio Blasco Valencia","identifier":"https://orcid.org/0009-0002-4839-104X"},
+        "publisher": {"@type":"Organization","name":"Tiempos Sustentables","url":"https://tiempossustentables.cl/"},
+        "license": "https://creativecommons.org/licenses/by/4.0/"
+      }
+    },
+    {
+      "item": {
+        "@type": ["Report", "ScholarlyArticle"],
+        "name": "Guía Estratégica de Negocios y Finanzas Sostenibles para el Liderazgo Comercial Latinoamericano",
+        "url": "https://tiempossustentables.cl/arquitectura-valor/",
+        "datePublished": "2026-05-26",
+        "dateModified": "2026-10-31",
+        "doi": "10.5281/zenodo.20443605",
+        "guid": "22784717",
+        "guid_doi": "10.5281/zenodo.22784717",
+        "documentation_url": "https://zenodo.org/records/22784717",
+        "repository": "Zenodo",
+        "sameAs": [
+          "https://doi.org/10.5281/zenodo.20443605",
+          "https://zenodo.org/doi/10.5281/zenodo.20443605",
+          "https://doi.org/10.5281/zenodo.22784717",
+          "https://zenodo.org/records/22784717",
+          "https://tiempossustentables.cl/wp-content/uploads/2026/05/guia-estrategica-de-negocios-y-finanzas-sostenibles-para-el-liderazgo-comercial-latinoamericano.pdf"
+        ],
+        "author": {"@type":"Person","name":"Jesús Patricio Blasco Valencia","identifier":"https://orcid.org/0009-0002-4839-104X"},
+        "publisher": {"@type":"Organization","name":"Tiempos Sustentables","url":"https://tiempossustentables.cl/"},
+        "license": "https://creativecommons.org/licenses/by/4.0/"
+      }
+    },
+    {
+      "item": {
+        "@type": ["ScholarlyArticle", "Report"],
+        "name": "Tiempos Sustentables y la Arquitectura de Valor",
+        "url": "https://tiempossustentables.cl/tiempos-sustentables-y-la-arquitectura-de-valor/",
+        "datePublished": "2026-09-02",
+        "dateModified": "2026-10-31",
+        "creativeWorkStatus": "Preprint",
+        "doi": "10.13140/RG.2.2.19546.50880",
+        "guid": null,
+        "guid_doi": null,
+        "documentation_url": null,
+        "repository": "ResearchGate",
+        "sameAs": [
+          "https://doi.org/10.13140/RG.2.2.19546.50880",
+          "https://www.researchgate.net/publication/413879666_Tiempos_Sustentables_y_la_Arquitectura_de_Valor/",
+          "https://upload.wikimedia.org/wikipedia/commons/2/29/Tiempos_Sustentables_y_la_Arquitectura_de_Valor.pdf"
+        ],
+        "author": {"@type":"Person","name":"Jesús Patricio Blasco Valencia","identifier":"https://orcid.org/0009-0002-4839-104X"},
+        "publisher": {"@type":"Organization","name":"Tiempos Sustentables","url":"https://tiempossustentables.cl/"},
         "license": "https://creativecommons.org/licenses/by/4.0/"
       }
     },
@@ -114,44 +129,71 @@
         "name": "El Nuevo Paradigma de la Sostenibilidad y su Recepción Estratégica",
         "url": "https://tiempossustentables.cl/el-nuevo-paradigma-de-la-sostenibilidad/",
         "datePublished": "2026-09-28",
-        "dateModified": "2026-10-10",
-        "author": {
-          "@type": "Person",
-          "name": "Jesús Patricio Blasco Valencia",
-          "identifier": "https://orcid.org/0009-0002-4839-104X"
-        },
-        "publisher": {
-          "@type": "Organization",
-          "name": "Tiempos Sustentables",
-          "url": "https://tiempossustentables.cl/"
-        },
+        "dateModified": "2026-10-31",
+        "creativeWorkStatus": "Preprint",
+        "doi": null,
+        "guid": null,
+        "guid_doi": null,
+        "documentation_url": null,
+        "repository": "Pendiente de depósito",
+        "author": {"@type":"Person","name":"Jesús Patricio Blasco Valencia","identifier":"https://orcid.org/0009-0002-4839-104X"},
+        "publisher": {"@type":"Organization","name":"Tiempos Sustentables","url":"https://tiempossustentables.cl/"},
         "license": "https://creativecommons.org/licenses/by/4.0/"
       }
     },
     {
       "item": {
-        "@type": "ScholarlyArticle",
-        "creativeWorkStatus": "Preprint",
-        "name": "Tiempos Sustentables y la Arquitectura de Valor",
-        "url": "https://tiempossustentables.cl/tiempos-sustentables-y-la-arquitectura-de-valor/",
-        "datePublished": "2026-09-02",
-        "dateModified": "2026-10-10",
-        "doi": "10.13140/RG.2.2.19546.50880",
+        "@type": ["Report", "SoftwareSourceCode", "Dataset"],
+        "name": "ESG Trends Radar y Arquitectura de Valor para el marketing sostenible",
+        "url": "https://github.com/Tiempos-Sustentables/arquitectura-valor-marketing-sostenible/tree/v1.4.1",
+        "dateModified": "2026-10-31",
+        "doi": "10.5281/zenodo.23749821",
+        "version": "v1.4.1",
+        "guid": null,
+        "guid_doi": null,
+        "documentation_url": "https://github.com/Tiempos-Sustentables/arquitectura-valor-marketing-sostenible/tree/v1.4.1",
+        "repository": "GitHub",
+        "sameAs": ["https://doi.org/10.5281/zenodo.23749821"],
+        "author": {"@type":"Person","name":"Jesús Patricio Blasco Valencia","identifier":"https://orcid.org/0009-0002-4839-104X"},
+        "publisher": {"@type":"Organization","name":"Tiempos Sustentables","url":"https://tiempossustentables.cl/"},
+        "license": "https://creativecommons.org/licenses/by/4.0/"
+      }
+    },
+    {
+      "item": {
+        "@type": "Dataset",
+        "name": "Tiempos Sustentables Open Data",
+        "url": "https://github.com/Tiempos-Sustentables/tiempos-sustentables-open-data",
+        "dateModified": "2026-10-31",
+        "doi": "10.5281/zenodo.23618645",
+        "version": "v.f",
+        "guid": null,
+        "guid_doi": null,
+        "documentation_url": "https://github.com/Tiempos-Sustentables/tiempos-sustentables-open-data/tree/v.f",
+        "repository": "GitHub",
+        "sameAs": ["https://doi.org/10.5281/zenodo.23618645"],
+        "author": {"@type":"Person","name":"Jesús Patricio Blasco Valencia","identifier":"https://orcid.org/0009-0002-4839-104X"},
+        "publisher": {"@type":"Organization","name":"Tiempos Sustentables","url":"https://tiempossustentables.cl/"},
+        "license": "https://creativecommons.org/licenses/by/4.0/"
+      }
+    },
+    {
+      "item": {
+        "@type": "WebSite",
+        "name": "Tiempos Sustentables",
+        "url": "https://tiempossustentables.cl/",
+        "dateModified": "2026-10-31",
+        "doi": "10.17605/OSF.IO/76V4J",
+        "guid": "76V4J",
+        "guid_doi": "10.17605/OSF.IO/76V4J",
+        "documentation_url": "https://archive.org/details/osf-registrations-76v4j-v1",
+        "repository": "Internet Archive",
         "sameAs": [
-          "https://doi.org/10.13140/RG.2.2.19546.50880",
-          "https://www.researchgate.net/publication/413879666_Tiempos_Sustentables_y_la_Arquitectura_de_Valor/",
-          "https://upload.wikimedia.org/wikipedia/commons/2/29/Tiempos_Sustentables_y_la_Arquitectura_de_Valor.pdf"
+          "https://doi.org/10.17605/OSF.IO/76V4J",
+          "https://osf.io/76v4j",
+          "https://archive.org/details/osf-registrations-76v4j-v1"
         ],
-        "author": {
-          "@type": "Person",
-          "name": "Jesús Patricio Blasco Valencia",
-          "identifier": "https://orcid.org/0009-0002-4839-104X"
-        },
-        "publisher": {
-          "@type": "Organization",
-          "name": "Tiempos Sustentables",
-          "url": "https://tiempossustentables.cl/"
-        },
+        "publisher": {"@type":"Organization","name":"Tiempos Sustentables","url":"https://tiempossustentables.cl/"},
         "license": "https://creativecommons.org/licenses/by/4.0/"
       }
     },
@@ -161,32 +203,23 @@
         "name": "La Autosegmentación en las Redes Verticales",
         "url": "https://tiempossustentables.cl/autosegmentacion-redes-verticales/",
         "datePublished": "2010-01-01",
+        "dateModified": "2026-10-31",
         "doi": "10.13140/RG.2.2.34373.20969",
+        "guid": null,
+        "guid_doi": null,
+        "documentation_url": null,
+        "repository": "ResearchGate",
         "sameAs": [
           "https://doi.org/10.13140/RG.2.2.34373.20969",
           "https://www.researchgate.net/doi/10.13140/RG.2.2.34373.20969",
           "https://tiempossustentables.cl/wp-content/uploads/2026/07/autosegmentacion-redes-verticales.pdf"
         ],
         "author": [
-          {
-            "@type": "Person",
-            "name": "Jesús Patricio Blasco Valencia",
-            "identifier": "https://orcid.org/0009-0002-4839-104X"
-          },
-          {
-            "@type": "Person",
-            "name": "Julio Orellana"
-          },
-          {
-            "@type": "Person",
-            "name": "Hiang Melcher"
-          }
+          {"@type":"Person","name":"Jesús Patricio Blasco Valencia","identifier":"https://orcid.org/0009-0002-4839-104X"},
+          {"@type":"Person","name":"Julio Orellana"},
+          {"@type":"Person","name":"Hiang Melcher"}
         ],
-        "publisher": {
-          "@type": "Organization",
-          "name": "Universidad Andrés Bello",
-          "url": "https://www.unab.cl/"
-        },
+        "publisher": {"@type":"Organization","name":"Universidad Andrés Bello","url":"https://www.unab.cl/"},
         "license": "https://creativecommons.org/licenses/by/4.0/"
       }
     }
