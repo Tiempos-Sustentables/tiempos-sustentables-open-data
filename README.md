@@ -2,7 +2,7 @@
 
 Repositorio público de datos estructurados sobre publicaciones, recursos y autoría de Tiempos Sustentables.
 
-**Versión:** v1.1.0  
+**Versión:** v1.2.0  
 **Actualización:** 15 de noviembre de 2026  
 **Página oficial:** https://tiempossustentables.cl/centro-de-recursos/tiempos-sustentables-open-data/
 
@@ -49,5 +49,6 @@ Facilitar el descubrimiento, la verificación y la cita de las publicaciones de 
 
 ## Versiones
 
-- `v1.1.0` — Incorpora la arquitectura completa de datos estructurados, visor HTML, metadatos académicos, reglas de contenido dinámico, inventario de entidades, datos condicionales y guía técnica.
+- `v1.2.0` — Actualización del paquete: arquitectura completa de datos estructurados, visor HTML, metadatos académicos, reglas de contenido dinámico, inventario de entidades, datos condicionales y guía técnica. La publicación de la release se gestiona por separado en GitHub Releases.
+- `v1.1.0` — Catálogo editorial inicial de publicaciones.
 - `v1.0.0` — Versión inicial del repositorio Open Data.
