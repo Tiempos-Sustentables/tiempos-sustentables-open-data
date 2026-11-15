@@ -1,0 +1,82 @@
+entity_id,types,reference_scope
+https://tiempossustentables.cl/#organization,Organization | NewsMediaOrganization,global
+https://tiempossustentables.cl/#logo,ImageObject,global
+https://tiempossustentables.cl/#periodical,Periodical,global
+https://tiempossustentables.cl/#website,WebSite,global
+https://tiempossustentables.cl/#jesus-blasco,Person,global
+https://tiempossustentables.cl/jesus-blasco/#foto-perfil,ImageObject,global
+https://www.unab.cl/#organization,Organization,/autosegmentacion-redes-verticales/ | /jesus-blasco/
+https://tiempossustentables.cl/#webpage,WebPage,/
+https://tiempossustentables.cl/jesus-blasco/#webpage,ProfilePage,/jesus-blasco/
+https://tiempossustentables.cl/jesus-blasco/#breadcrumb,BreadcrumbList,/jesus-blasco/
+https://tiempossustentables.cl/tiempos-sustentables/#webpage,AboutPage,/tiempos-sustentables/
+https://tiempossustentables.cl/tiempos-sustentables/#breadcrumb,BreadcrumbList,/tiempos-sustentables/
+https://tiempossustentables.cl/centro-de-recursos/#webpage,CollectionPage | WebPage,/centro-de-recursos/
+https://tiempossustentables.cl/centro-de-recursos/#dataset-regulaciones,Dataset,/centro-de-recursos/
+https://tiempossustentables.cl/centro-de-recursos/#esg-trends-radar,WebApplication | SoftwareApplication,/centro-de-recursos/
+https://tiempossustentables.cl/centro-de-recursos/#dataset-esg-trends-radar,Dataset,/centro-de-recursos/
+https://diagnostico.tiempossustentables.cl/#app,WebApplication | SoftwareApplication,/servicios-b2b/
+https://tiempossustentables.cl/servicios-b2b/#service,Service,/servicios-b2b/
+https://tiempossustentables.cl/servicios-b2b/#webpage,WebPage,/servicios-b2b/
+https://tiempossustentables.cl/centro-de-recursos/#breadcrumb,BreadcrumbList,/centro-de-recursos/
+https://tiempossustentables.cl/servicios-b2b/#breadcrumb,BreadcrumbList,/servicios-b2b/
+https://tiempossustentables.cl/wp-content/uploads/2026/05/guia-estrategica-de-negocios-y-finanzas-sostenibles-para-el-liderazgo-comercial-latinoamericano.pdf#pdf,MediaObject,/arquitectura-valor/
+https://tiempossustentables.cl/arquitectura-valor/#work,Report | ScholarlyArticle,/arquitectura-valor/ | /jesus-blasco/ | /ediciones-especiales/
+https://tiempossustentables.cl/arquitectura-valor/#webpage,WebPage,/arquitectura-valor/
+https://tiempossustentables.cl/arquitectura-valor/#breadcrumb,BreadcrumbList,/arquitectura-valor/
+https://tiempossustentables.cl/wp-content/uploads/2026/05/brand-finance-2026-arquitectura-de-valor.pdf#pdf,MediaObject,/brand-finance-2026-valor-marca-sostenibilidad/
+https://tiempossustentables.cl/brand-finance-2026-valor-marca-sostenibilidad/#work,ScholarlyArticle | Report,/brand-finance-2026-valor-marca-sostenibilidad/ | /jesus-blasco/ | /ediciones-especiales/
+https://tiempossustentables.cl/brand-finance-2026-valor-marca-sostenibilidad/#webpage,WebPage,/brand-finance-2026-valor-marca-sostenibilidad/
+https://tiempossustentables.cl/brand-finance-2026-valor-marca-sostenibilidad/#breadcrumb,BreadcrumbList,/brand-finance-2026-valor-marca-sostenibilidad/
+https://tiempossustentables.cl/wp-content/uploads/2026/09/economia-circular-chile-latam.pdf#pdf,MediaObject,/economia-circular-chile-latam/
+https://tiempossustentables.cl/economia-circular-chile-latam/#work,ScholarlyArticle | Report,/economia-circular-chile-latam/ | /jesus-blasco/ | /ediciones-especiales/
+https://tiempossustentables.cl/economia-circular-chile-latam/#webpage,WebPage,/economia-circular-chile-latam/
+https://tiempossustentables.cl/economia-circular-chile-latam/#breadcrumb,BreadcrumbList,/economia-circular-chile-latam/
+https://tiempossustentables.cl/doble-materialidad-esg-reporting-rentabilidad-latam/#work,Article | Report,/doble-materialidad-esg-reporting-rentabilidad-latam/ | /jesus-blasco/ | /ediciones-especiales/
+https://tiempossustentables.cl/doble-materialidad-esg-reporting-rentabilidad-latam/#webpage,WebPage,/doble-materialidad-esg-reporting-rentabilidad-latam/
+https://tiempossustentables.cl/doble-materialidad-esg-reporting-rentabilidad-latam/#breadcrumb,BreadcrumbList,/doble-materialidad-esg-reporting-rentabilidad-latam/
+https://tiempossustentables.cl/wp-content/uploads/2026/09/EL-NUEVO-PARADIGMA-DE-LA-SOSTENIBILIDAD-Y-SU-RECEPCION-ESTRATEGICA.pdf#pdf,MediaObject,/el-nuevo-paradigma-de-la-sostenibilidad/
+https://tiempossustentables.cl/el-nuevo-paradigma-de-la-sostenibilidad/#work,ScholarlyArticle | Report,/el-nuevo-paradigma-de-la-sostenibilidad/ | /jesus-blasco/ | /ediciones-especiales/
+https://tiempossustentables.cl/el-nuevo-paradigma-de-la-sostenibilidad/#webpage,WebPage,/el-nuevo-paradigma-de-la-sostenibilidad/
+https://tiempossustentables.cl/el-nuevo-paradigma-de-la-sostenibilidad/#breadcrumb,BreadcrumbList,/el-nuevo-paradigma-de-la-sostenibilidad/
+https://tiempossustentables.cl/wp-content/uploads/2026/10/ESG_Trends_Radar_Articulo_Report_1_4.pdf#pdf,MediaObject,/esg-trends-radar-arquitectura-de-valor-marketing-sostenible/
+https://tiempossustentables.cl/esg-trends-radar-arquitectura-de-valor-marketing-sostenible/#work,Report | ScholarlyArticle,/esg-trends-radar-arquitectura-de-valor-marketing-sostenible/ | /jesus-blasco/ | /ediciones-especiales/
+https://tiempossustentables.cl/esg-trends-radar-arquitectura-de-valor-marketing-sostenible/#webpage,WebPage,/esg-trends-radar-arquitectura-de-valor-marketing-sostenible/
+https://tiempossustentables.cl/esg-trends-radar-arquitectura-de-valor-marketing-sostenible/#breadcrumb,BreadcrumbList,/esg-trends-radar-arquitectura-de-valor-marketing-sostenible/
+https://tiempossustentables.cl/tiempos-sustentables-open-data/#work,Dataset | SoftwareSourceCode,/tiempos-sustentables-open-data/ | /jesus-blasco/ | /ediciones-especiales/
+https://tiempossustentables.cl/tiempos-sustentables-open-data/#webpage,WebPage,/tiempos-sustentables-open-data/
+https://tiempossustentables.cl/tiempos-sustentables-open-data/#breadcrumb,BreadcrumbList,/tiempos-sustentables-open-data/
+https://upload.wikimedia.org/wikipedia/commons/2/29/Tiempos_Sustentables_y_la_Arquitectura_de_Valor.pdf#pdf,MediaObject,/tiempos-sustentables-y-la-arquitectura-de-valor/
+https://tiempossustentables.cl/tiempos-sustentables-y-la-arquitectura-de-valor/#work,ScholarlyArticle,/tiempos-sustentables-y-la-arquitectura-de-valor/ | /jesus-blasco/ | /ediciones-especiales/
+https://tiempossustentables.cl/tiempos-sustentables-y-la-arquitectura-de-valor/#webpage,WebPage,/tiempos-sustentables-y-la-arquitectura-de-valor/
+https://tiempossustentables.cl/tiempos-sustentables-y-la-arquitectura-de-valor/#breadcrumb,BreadcrumbList,/tiempos-sustentables-y-la-arquitectura-de-valor/
+https://tiempossustentables.cl/wp-content/uploads/2026/07/autosegmentacion-redes-verticales.pdf#pdf,MediaObject,/autosegmentacion-redes-verticales/
+https://tiempossustentables.cl/autosegmentacion-redes-verticales/#work,Thesis,/autosegmentacion-redes-verticales/ | /jesus-blasco/ | /ediciones-especiales/
+https://tiempossustentables.cl/autosegmentacion-redes-verticales/#webpage,WebPage,/autosegmentacion-redes-verticales/
+https://tiempossustentables.cl/autosegmentacion-redes-verticales/#breadcrumb,BreadcrumbList,/autosegmentacion-redes-verticales/
+https://doi.org/10.17605/OSF.IO/BSED6,CreativeWork,/jesus-blasco/
+https://doi.org/10.17605/OSF.IO/76V4J,CreativeWork,/jesus-blasco/
+https://doi.org/10.17605/OSF.IO/CHW3J,CreativeWork,/jesus-blasco/
+https://doi.org/10.17605/OSF.IO/Q57PZ,CreativeWork,/jesus-blasco/
+https://osf.io/r87vz,CreativeWork,/jesus-blasco/
+https://osf.io/tnd4p,CreativeWork,/jesus-blasco/
+https://osf.io/qs9wr,Dataset,/jesus-blasco/
+https://tiempossustentables.cl/jesus-blasco/#obras,ItemList,/jesus-blasco/
+https://tiempossustentables.cl/#colaborador-1,Person,/alianzas-estrategicas/
+https://tiempossustentables.cl/#colaborador-2,Person,/alianzas-estrategicas/
+https://tiempossustentables.cl/#colaborador-3,Person,/alianzas-estrategicas/
+https://tiempossustentables.cl/#colaborador-4,Person,/alianzas-estrategicas/
+https://tiempossustentables.cl/#colaborador-5,Person,/alianzas-estrategicas/
+https://tiempossustentables.cl/#colaboradores,ItemList,/alianzas-estrategicas/
+https://tiempossustentables.cl/#alianza-1,Organization,/alianzas-estrategicas/
+https://tiempossustentables.cl/#alianza-2,Organization,/alianzas-estrategicas/
+https://tiempossustentables.cl/#alianza-3,Organization,/alianzas-estrategicas/
+https://tiempossustentables.cl/#alianza-4,Organization,/alianzas-estrategicas/
+https://tiempossustentables.cl/#alianza-5,Organization,/alianzas-estrategicas/
+https://tiempossustentables.cl/#alianzas-corporativas,ItemList,/alianzas-estrategicas/
+https://tiempossustentables.cl/alianzas-estrategicas/#webpage,CollectionPage,/alianzas-estrategicas/
+https://tiempossustentables.cl/alianzas-estrategicas/#breadcrumb,BreadcrumbList,/alianzas-estrategicas/
+https://tiempossustentables.cl/centro-de-recursos/#lista-recursos,ItemList,/centro-de-recursos/
+https://tiempossustentables.cl/ediciones-especiales/#lista-publicaciones-metodologicas,ItemList,/ediciones-especiales/
+https://tiempossustentables.cl/ediciones-especiales/#webpage,CollectionPage,/ediciones-especiales/
+https://tiempossustentables.cl/ediciones-especiales/#breadcrumb,BreadcrumbList,/ediciones-especiales/

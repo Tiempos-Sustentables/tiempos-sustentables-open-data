@@ -1,0 +1,50 @@
+{
+  "purpose": "Especificación propuesta para completar los contenidos que no están inventariados en el export. No es salida publicada.",
+  "categories": {
+    "page_type": "CollectionPage",
+    "main_entity_type": "ItemList",
+    "list_items": "Solo URLs canónicas de entradas realmente visibles en la página de archivo; posiciones de la página actual.",
+    "pagination": "URL canónica propia por página; no listar todo el archivo en todas las páginas."
+  },
+  "ordinary_posts": {
+    "page_type": "WebPage",
+    "work_type": "Article o BlogPosting; NewsArticle solo cuando sea noticia.",
+    "identity": "URL canónica + #work",
+    "author": "Autor real de WordPress o firma invitada verificada; nunca asumir un mismo autor para todas las entradas.",
+    "dates": "Fechas reales ISO 8601 de publicación y modificación.",
+    "image": "Imagen destacada real; omitir si no existe.",
+    "publisher": "https://tiempossustentables.cl/#organization"
+  },
+  "guest_authors": {
+    "page_type": "ProfilePage",
+    "main_entity_type": "Person",
+    "identity": "ID estable propio distinto del director; usar perfil canónico real.",
+    "sameAs": "Solo perfiles oficiales comprobados."
+  },
+  "special_editions": {
+    "post_ids": [
+      3114,
+      3261,
+      3877
+    ],
+    "resolve_from": "WordPress, solo post_status=publish",
+    "required": "URL canónica, título, autor, fechas e imagen reales. No disponibles en este export."
+  },
+  "breadcrumbs": {
+    "scope": "Páginas interiores y publicaciones",
+    "rule": "Ruta real; no deducir jerarquía solo de segmentos de URL. Patrón de dos niveles del export conservado en el grafo de referencia."
+  },
+  "video": {
+    "scope": "Solo ficha con vídeo visible y fecha de subida real comprobada",
+    "required": "Fecha con zona horaria, nombre, miniatura accesible, embedUrl real."
+  },
+  "faq": {
+    "default": "No emitir hasta verificar preguntas/respuestas visibles y exactitud.",
+    "source_payload_file": "pendientes_y_datos_condicionales.json"
+  },
+  "deployment": {
+    "global": "Identidades compartidas; no pegar todo este catálogo en todas las páginas.",
+    "per_url": "Emitir página, obra o recurso y relaciones pertinentes.",
+    "aioseo": "Control de duplicidad selectivo; el paquete anterior NO excluye AIOSEO en todas las categorías/entradas."
+  }
+}

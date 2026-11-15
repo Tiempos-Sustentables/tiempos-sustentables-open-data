@@ -1,0 +1,50 @@
+TIEMPOS SUSTENTABLES — ARQUITECTURA COMPLETA PROPUESTA
+Fecha: 15-11-2026. Fuente: export WPCode aportado por el usuario.
+
+ALCANCE
+Grafo consolidado de 81 nodos, 16 páginas descritas, 9 obras de la matriz y
+7 registros adicionales del catálogo (16 obras/registros formales), 5 colaboradores
+y 5 organizaciones de alianzas. Incluye herramientas, datasets, catálogo de servicios,
+PDFs y breadcrumbs. No es rastreo exhaustivo del WordPress actual.
+
+PROPÓSITO
+Referencia y especificación. Google recibe el marcado distribuido por URLs, no un archivo maestro enviado al índice.
+
+ARCHIVOS
+- TS_Schema_completo.jsonld: grafo central completo de referencia.
+- TS_Schema_completo_vista.html: visor local completo con búsqueda por entidad.
+- distribucion_entidades.csv: inventario con alcance previsto de cada nodo.
+- metadatos_academicos.json: citation_*, Dublin Core y PRISM separados de JSON-LD.
+- reglas_contenido_dinamico.json: categorías, entradas corrientes, firmas invitadas,
+  paginación, ediciones especiales y contenidos condicionales.
+- Datos_condicionales.json: datos pendientes y FAQ fuente en cuarentena.
+
+DATOS INCLUIDOS
+Sin Person.authorOf; obras independientes relacionadas desde author/creator.
+Identidades globales compartidas por @id. Sin nodos duplicados con el mismo @id.
+Las obras con mismo DOI en catálogo y matriz se consolidan; se retira la segunda
+ficha Guide/Thesis contradictoria. No se declara equivalencia nueva de versiones.
+Se conservan diferencias entre autor y página de autor, organización y publicación.
+Los registros OSF se describen conservadoramente como CreativeWork, no se presume
+que son artículos científicos. No se asigna autoría automáticamente a los 7 registros.
+Se omite dateModified incoherente del registro CHW3J.
+Se añade AboutPage, páginas/listas y enlaces como objetivo arquitectónico;
+no se afirma que todo esto ya esté implementado en el paquete PHP anterior.
+Se conservan tipos múltiples de la matriz salvo Thesis simplificada.
+about de los datasets usa DefinedTerm para términos en lugar de texto desnudo.
+No se asigna hasPart a ItemList.
+No se utiliza sameAs de la organización para representar alianzas.
+
+DATOS INCOMPLETOS
+No se dispone del contenido completo de WordPress: entradas corrientes, categorías,
+firmas invitadas, imágenes destacadas y fechas dinámicas requieren consulta al sitio.
+Tres IDs de ediciones especiales no se resuelven solo con este export.
+No se inventan URLs ni fechas. Video y FAQ quedan fuera del grafo central hasta revisión.
+Las fechas del grafo proceden de la matriz histórica del export; la salida real puede
+usar la fecha actual de modificación del post, que no se ha consultado aquí.
+El inventario conserva alumniOf, perfiles, cargos y alianzas como datos declarados,
+no como hechos comprobados externamente. Revisarlos antes de cualquier despliegue.
+
+VALIDACIÓN
+JSON parseable; IDs únicos; referencias @id resueltas en el grafo;
+NO se certifica indexación, reconocimiento de entidades o resultados enriquecidos.

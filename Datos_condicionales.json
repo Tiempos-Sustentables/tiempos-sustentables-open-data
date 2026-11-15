@@ -1,0 +1,674 @@
+{
+  "notices": [
+    {
+      "url": "https://tiempossustentables.cl/el-nuevo-paradigma-de-la-sostenibilidad/",
+      "pending": "VideoObject sin fecha real de subida. No incluido en grafo desplegable.",
+      "video_url": "https://youtu.be/SEle6L7PWOs"
+    },
+    {
+      "url": "https://tiempossustentables.cl/el-nuevo-paradigma-de-la-sostenibilidad/",
+      "pending": "FAQPage excluido hasta verificar visibilidad y exactitud de preguntas/respuestas."
+    },
+    {
+      "entity": "https://doi.org/10.17605/OSF.IO/BSED6",
+      "pending": "Registro del catálogo conservado; autoría, licencia y tipo académico requieren contraste externo. No se asignan automáticamente."
+    },
+    {
+      "entity": "https://doi.org/10.17605/OSF.IO/76V4J",
+      "pending": "Registro del catálogo conservado; autoría, licencia y tipo académico requieren contraste externo. No se asignan automáticamente."
+    },
+    {
+      "entity": "https://doi.org/10.17605/OSF.IO/CHW3J",
+      "pending": "Registro del catálogo conservado; autoría, licencia y tipo académico requieren contraste externo. No se asignan automáticamente."
+    },
+    {
+      "entity": "https://doi.org/10.17605/OSF.IO/Q57PZ",
+      "pending": "Registro del catálogo conservado; autoría, licencia y tipo académico requieren contraste externo. No se asignan automáticamente."
+    },
+    {
+      "entity": "https://osf.io/r87vz",
+      "pending": "Registro del catálogo conservado; autoría, licencia y tipo académico requieren contraste externo. No se asignan automáticamente."
+    },
+    {
+      "entity": "https://osf.io/tnd4p",
+      "pending": "Registro del catálogo conservado; autoría, licencia y tipo académico requieren contraste externo. No se asignan automáticamente."
+    },
+    {
+      "entity": "https://osf.io/qs9wr",
+      "pending": "Registro del catálogo conservado; autoría, licencia y tipo académico requieren contraste externo. No se asignan automáticamente."
+    },
+    {
+      "url": "https://tiempossustentables.cl/alianzas-estrategicas/",
+      "pending": "El snippet contempla también /alianzas/. Resolver cuál es la URL canónica; no se crean dos páginas equivalentes en esta propuesta. No implica certificación de relaciones."
+    },
+    {
+      "url": "https://tiempossustentables.cl/ediciones-especiales/",
+      "pending": "Lista dinámica adicional de ediciones especiales: resolver desde WordPress los IDs 3114, 3261 y 3877. No se inventan títulos, URLs ni fechas.",
+      "post_ids": [
+        3114,
+        3261,
+        3877
+      ]
+    },
+    {
+      "scope": "Fechas de obras",
+      "pending": "Fechas históricas tomadas de la matriz del export, no de get_post_modified_time actual. Algunas fichas del catálogo difieren. Confirmar antes de publicar."
+    },
+    {
+      "scope": "DOI/versiones",
+      "pending": "La Guía conserva la matriz con 20443604 y menciona otros DOI del catálogo como identidades declaradas. Confirmar equivalencia/versiones; no se ha validado contra Zenodo."
+    },
+    {
+      "scope": "Datos institucionales y autoría",
+      "pending": "Razón social, perfiles, imágenes, formación, cargos, colaboradores y alianzas proceden del export; no constituyen verificación externa."
+    },
+    {
+      "scope": "Imágenes editoriales",
+      "pending": "El export no incluye IDs/URLs actuales de imágenes destacadas. El generador en WordPress debe completar image para cada obra cuando exista."
+    },
+    {
+      "scope": "Datasets y aplicaciones",
+      "pending": "Se conservan los recursos descritos por el código. Confirmar disponibilidad real de datos, metodología, licencias y gratuidad."
+    },
+    {
+      "scope": "Categorías, entradas y autores fuera de la matriz",
+      "pending": "El export no es inventario completo de WordPress. Se incluyen reglas de generación, no se inventan URLs, autores ni fechas."
+    }
+  ],
+  "faq_source_not_for_deployment": {
+    "@type": "FAQPage",
+    "@id": "https://tiempossustentables.cl/el-nuevo-paradigma-de-la-sostenibilidad/#faq",
+    "url": "https://tiempossustentables.cl/el-nuevo-paradigma-de-la-sostenibilidad/",
+    "inLanguage": "es-CL",
+    "mainEntity": [
+      {
+        "@type": "Question",
+        "name": "¿Qué exige la NIIF S2 a las empresas reguladas por la CMF en Chile?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "La NIIF S2 exige que las empresas identifiquen, midan y divulguen cuantitativamente el impacto financiero de los riesgos físicos y de transición climática sobre sus flujos de caja, EBITDA y valoración de activos, requiriendo análisis de resiliencia bajo escenarios de 1,5 °C y 2 °C y medición de emisiones en Alcances 1, 2 y 3."
+        }
+      },
+      {
+        "@type": "Question",
+        "name": "¿Cuál es la diferencia entre la NCG 461 y la alineación con la NIIF S2?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "La NCG 461 es la norma marco de la CMF para memorias integradas con métricas ESG y SASB. La NIIF S2 es el estándar internacional de contabilidad climática. En Chile, mientras la mayoría reporta bajo NCG 461, solo un 24,1% traduce esa información al modelo de riesgo financiero exigido por NIIF S2."
+        }
+      },
+      {
+        "@type": "Question",
+        "name": "¿Cómo afecta la huella ambiental de la IA al reporte de Alcance 3?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "El procesamiento en centros de datos para IA consume agua y electricidad. Bajo GHG Protocol y NIIF S2, las empresas deben contabilizar la huella hídrica y de carbono de sus proveedores tecnológicos indirectos en su inventario de Alcance 3."
+        }
+      },
+      {
+        "@type": "Question",
+        "name": "¿Qué es la metodología «Arquitectura de Valor»?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "Es un marco metodológico desarrollado por Jesús Patricio Blasco Valencia (registrado con DOI: 10.5281/zenodo.20443605 e ISSN: 3087-3096) que articula la sostenibilidad con los estados financieros mediante tres dimensiones: Cabeza Fría (auditoría financiera), Corazón Activo (propuesta comercial) y Manos Firmes (gobernanza y ejecución)."
+        }
+      }
+    ]
+  },
+  "bibliographic_source_catalogue": [
+    {
+      "@type": "Report",
+      "@id": "https://doi.org/10.5281/zenodo.20443604",
+      "name": "Guía Estratégica de Negocios y Finanzas Sostenibles para el Liderazgo Comercial Latinoamericano",
+      "datePublished": "2026-05-26",
+      "url": "https://tiempossustentables.cl/arquitectura-valor/",
+      "identifier": [
+        "https://doi.org/10.5281/zenodo.22784717",
+        "https://doi.org/10.5281/zenodo.20443604",
+        "https://doi.org/10.5281/zenodo.20443605"
+      ],
+      "associatedMedia": {
+        "@type": "MediaObject",
+        "contentUrl": "https://tiempossustentables.cl/wp-content/uploads/2026/05/guia-estrategica-de-negocios-y-finanzas-sostenibles-para-el-liderazgo-comercial-latinoamericano.pdf",
+        "encodingFormat": "application/pdf"
+      },
+      "isPartOf": {
+        "@id": "https://tiempossustentables.cl/#periodical"
+      },
+      "publisher": {
+        "@id": "https://tiempossustentables.cl/#organization"
+      }
+    },
+    {
+      "@type": "Thesis",
+      "@id": "https://doi.org/10.5281/zenodo.20443604",
+      "name": "Guía Estratégica de Negocios y Finanzas Sostenibles para el Liderazgo Comercial Latinoamericano (v1)",
+      "datePublished": "2026-05-26",
+      "identifier": "https://doi.org/10.5281/zenodo.20443604",
+      "url": "https://zenodo.org/doi/10.5281/zenodo.20443604",
+      "publisher": {
+        "@id": "https://tiempossustentables.cl/#organization"
+      }
+    },
+    {
+      "@type": "Report",
+      "@id": "https://doi.org/10.17605/OSF.IO/TYRH7",
+      "name": "Doble materialidad ESG: el puente entre reporting y rentabilidad en América Latina",
+      "datePublished": "2026-07-29",
+      "dateCreated": "2026-07-31",
+      "dateModified": "2026-10-24",
+      "url": "https://tiempossustentables.cl/doble-materialidad-esg-reporting-rentabilidad-latam/",
+      "identifier": "https://doi.org/10.17605/OSF.IO/TYRH7",
+      "isPartOf": {
+        "@id": "https://tiempossustentables.cl/#periodical"
+      },
+      "publisher": {
+        "@id": "https://tiempossustentables.cl/#organization"
+      }
+    },
+    {
+      "@type": "Report",
+      "@id": "https://doi.org/10.17605/OSF.IO/CXZMJ",
+      "name": "Brand Finance Global 500 2026 bajo la Arquitectura de Valor",
+      "datePublished": "2026-05-28",
+      "dateCreated": "2026-07-31",
+      "dateModified": "2026-10-23",
+      "url": "https://tiempossustentables.cl/brand-finance-2026-valor-marca-sostenibilidad/",
+      "identifier": [
+        "https://doi.org/10.17605/OSF.IO/CXZMJ",
+        "https://doi.org/10.17605/OSF.IO/CHW3J"
+      ],
+      "associatedMedia": {
+        "@type": "MediaObject",
+        "contentUrl": "https://tiempossustentables.cl/wp-content/uploads/2026/05/brand-finance-2026-arquitectura-de-valor.pdf",
+        "encodingFormat": "application/pdf"
+      },
+      "isPartOf": {
+        "@id": "https://tiempossustentables.cl/#periodical"
+      },
+      "publisher": {
+        "@id": "https://tiempossustentables.cl/#organization"
+      }
+    },
+    {
+      "@type": "Report",
+      "@id": "https://doi.org/10.17605/OSF.IO/PKY85",
+      "name": "Economía Circular en Chile y América Latina: Arquitectura Regulatoria, Innovación Tecnológica y Valor ESG hacia 2026",
+      "datePublished": "2026-09-01",
+      "dateCreated": "2026-09-01",
+      "dateModified": "2026-10-24",
+      "url": "https://tiempossustentables.cl/economia-circular-chile-latam/",
+      "identifier": [
+        "https://doi.org/10.17605/OSF.IO/PKY85",
+        "https://doi.org/10.17605/OSF.IO/Q57PZ"
+      ],
+      "associatedMedia": {
+        "@type": "MediaObject",
+        "contentUrl": "https://tiempossustentables.cl/wp-content/uploads/2026/09/economia-circular-chile-latam.pdf",
+        "encodingFormat": "application/pdf"
+      },
+      "isPartOf": {
+        "@id": "https://tiempossustentables.cl/#periodical"
+      },
+      "publisher": {
+        "@id": "https://tiempossustentables.cl/#organization"
+      }
+    },
+    {
+      "@type": "Report",
+      "@id": "https://tiempossustentables.cl/el-nuevo-paradigma-de-la-sostenibilidad/#work",
+      "name": "El Nuevo Paradigma de la Sostenibilidad y su Recepción Estratégica",
+      "datePublished": "2026-09-28",
+      "url": "https://tiempossustentables.cl/el-nuevo-paradigma-de-la-sostenibilidad/",
+      "associatedMedia": {
+        "@type": "MediaObject",
+        "contentUrl": "https://tiempossustentables.cl/wp-content/uploads/2026/09/EL-NUEVO-PARADIGMA-DE-LA-SOSTENIBILIDAD-Y-SU-RECEPCION-ESTRATEGICA.pdf",
+        "encodingFormat": "application/pdf"
+      },
+      "isPartOf": {
+        "@id": "https://tiempossustentables.cl/#periodical"
+      },
+      "publisher": {
+        "@id": "https://tiempossustentables.cl/#organization"
+      }
+    },
+    {
+      "@type": "Report",
+      "@id": "https://doi.org/10.5281/zenodo.23749821",
+      "name": "ESG Trends Radar y Arquitectura de Valor para el marketing sostenible",
+      "datePublished": "2026-10-29",
+      "url": "https://tiempossustentables.cl/esg-trends-radar-arquitectura-de-valor-marketing-sostenible/",
+      "identifier": [
+        "https://doi.org/10.5281/zenodo.23749821",
+        "https://doi.org/10.5281/zenodo.23749820"
+      ],
+      "associatedMedia": {
+        "@type": "MediaObject",
+        "contentUrl": "https://tiempossustentables.cl/wp-content/uploads/2026/10/ESG_Trends_Radar_Articulo_Report_1_4.pdf",
+        "encodingFormat": "application/pdf"
+      },
+      "isPartOf": {
+        "@id": "https://tiempossustentables.cl/#periodical"
+      },
+      "publisher": {
+        "@id": "https://tiempossustentables.cl/#organization"
+      }
+    },
+    {
+      "@type": "SoftwareSourceCode",
+      "@id": "https://doi.org/10.5281/zenodo.23618645",
+      "name": "Tiempos Sustentables Open Data",
+      "datePublished": "2026-10-24",
+      "identifier": [
+        "https://doi.org/10.5281/zenodo.23618645",
+        "https://doi.org/10.5281/zenodo.23618644"
+      ],
+      "url": "https://zenodo.org/doi/10.5281/zenodo.23618645",
+      "codeRepository": "https://github.com/Tiempos-Sustentables/tiempos-sustentables-open-data",
+      "publisher": {
+        "@type": "Organization",
+        "name": "Zenodo"
+      }
+    },
+    {
+      "@type": "ScholarlyArticle",
+      "@id": "https://doi.org/10.13140/rg.2.2.19546.50880",
+      "name": "Tiempos Sustentables y la Arquitectura de Valor",
+      "datePublished": "2026-09-02",
+      "identifier": "https://doi.org/10.13140/rg.2.2.19546.50880",
+      "url": "https://tiempossustentables.cl/tiempos-sustentables-y-la-arquitectura-de-valor/",
+      "associatedMedia": {
+        "@type": "MediaObject",
+        "contentUrl": "https://upload.wikimedia.org/wikipedia/commons/2/29/Tiempos_Sustentables_y_la_Arquitectura_de_Valor.pdf",
+        "encodingFormat": "application/pdf"
+      },
+      "publisher": {
+        "@id": "https://tiempossustentables.cl/#organization"
+      }
+    },
+    {
+      "@type": "Thesis",
+      "@id": "https://doi.org/10.13140/rg.2.2.34373.20969",
+      "name": "La Autosegmentación en las Redes Verticales",
+      "datePublished": "2010",
+      "identifier": "https://doi.org/10.13140/rg.2.2.34373.20969",
+      "url": "https://tiempossustentables.cl/autosegmentacion-redes-verticales/",
+      "associatedMedia": {
+        "@type": "MediaObject",
+        "contentUrl": "https://tiempossustentables.cl/wp-content/uploads/2026/07/autosegmentacion-redes-verticales.pdf",
+        "encodingFormat": "application/pdf"
+      },
+      "publisher": {
+        "@type": "Organization",
+        "@id": "https://www.unab.cl/#organization",
+        "name": "Universidad Andrés Bello"
+      }
+    },
+    {
+      "@type": "ScholarlyArticle",
+      "@id": "https://doi.org/10.17605/OSF.IO/BSED6",
+      "name": "Doble materialidad ESG: el puente entre reporting y rentabilidad en América Latina (OSF Registration)",
+      "description": "Descubre cómo la doble materialidad ESG conecta reporting y rentabilidad en América Latina con un modelo de Arquitectura de Valor en 5 bloques aplicable en 90 días.",
+      "datePublished": "2026-10-24",
+      "dateModified": "2026-10-29",
+      "identifier": "https://doi.org/10.17605/OSF.IO/BSED6",
+      "url": "https://osf.io/bsed6",
+      "publisher": {
+        "@type": "Organization",
+        "name": "OSF Registries",
+        "url": "https://osf.io/registries"
+      }
+    },
+    {
+      "@type": "CreativeWork",
+      "@id": "https://doi.org/10.17605/OSF.IO/76V4J",
+      "name": "Tiempos Sustentables | ESG y Sostenibilidad Corporativa (OSF Registration)",
+      "description": "Plataforma de inteligencia estratégica dedicada a informar, conectar y generar valor mediante sostenibilidad corporativa, economía circular y gobernanza ESG en Chile y América Latina. Registro ISSN 3087-3096 y Registro AW-963536011.",
+      "datePublished": "2026-10-22",
+      "dateModified": "2026-10-29",
+      "identifier": "https://doi.org/10.17605/OSF.IO/76V4J",
+      "url": "https://osf.io/76v4j",
+      "publisher": {
+        "@type": "Organization",
+        "name": "OSF Registries",
+        "url": "https://osf.io/registries"
+      }
+    },
+    {
+      "@type": "ScholarlyArticle",
+      "@id": "https://doi.org/10.17605/OSF.IO/CHW3J",
+      "name": "Brand Finance Global 500 2026 bajo la Arquitectura de Valor (OSF Preregistration)",
+      "description": "Estudio que contrasta los resultados financieros de Brand Finance Global 500 2026 con la matriz de coherencia sostenible de Tiempos Sustentables para la alta dirección en Latinoamérica.",
+      "datePublished": "2026-10-31",
+      "dateModified": "2026-10-23",
+      "identifier": "https://doi.org/10.17605/OSF.IO/CHW3J",
+      "url": "https://osf.io/chw3j",
+      "publisher": {
+        "@type": "Organization",
+        "name": "OSF Registries",
+        "url": "https://osf.io/registries"
+      }
+    },
+    {
+      "@type": "ScholarlyArticle",
+      "@id": "https://doi.org/10.17605/OSF.IO/Q57PZ",
+      "name": "Economía Circular en Chile y América Latina: Arquitectura Regulatoria, Innovación Tecnológica y Valor ESG hacia 2026 (OSF Registration)",
+      "description": "Economía Circular en Chile y LATAM: Guía Estratégica 2026. Una compilación editorial de publicaciones independientes de Tiempos Sustentables para comprender la circularidad desde la regulación, los flujos materiales, la innovación, los modelos de negocio y la creación de valor verificable.",
+      "datePublished": "2026-10-29",
+      "dateModified": "2026-10-29",
+      "identifier": "https://doi.org/10.17605/OSF.IO/Q57PZ",
+      "url": "https://osf.io/q57pz",
+      "publisher": {
+        "@type": "Organization",
+        "name": "OSF Registries",
+        "url": "https://osf.io/registries"
+      }
+    },
+    {
+      "@type": "CreativeWork",
+      "@id": "https://osf.io/r87vz",
+      "name": "Economía Circular en Chile y LATAM: Guía Estratégica 2026 (Compilación OSF)",
+      "dateCreated": "2026-10-24",
+      "dateModified": "2026-10-30",
+      "url": "https://osf.io/r87vz",
+      "publisher": {
+        "@type": "Organization",
+        "name": "OSF"
+      }
+    },
+    {
+      "@type": "CreativeWork",
+      "@id": "https://osf.io/tnd4p",
+      "name": "Tiempos Sustentables (Registro AW-963536011)",
+      "dateCreated": "2026-10-22",
+      "dateModified": "2026-10-30",
+      "url": "https://osf.io/tnd4p",
+      "publisher": {
+        "@type": "Organization",
+        "name": "OSF"
+      }
+    },
+    {
+      "@type": "Dataset",
+      "@id": "https://osf.io/qs9wr",
+      "name": "ISSN 3087-3096 | Tiempos Sustentables Dataset",
+      "description": "Conjunto de datos de Tiempos Sustentables, publicación seriada identificada con el ISSN 3087-3096, alojado en OSF.",
+      "dateCreated": "2026-09-01",
+      "dateModified": "2026-10-30",
+      "url": "https://osf.io/qs9wr",
+      "publisher": {
+        "@type": "Organization",
+        "name": "OSF"
+      }
+    }
+  ],
+  "source_matrix": {
+    "arquitectura-valor": {
+      "wp_type": "page",
+      "type": [
+        "Report",
+        "ScholarlyArticle"
+      ],
+      "title": "Guía Estratégica de Negocios y Finanzas Sostenibles para el Liderazgo Comercial Latinoamericano",
+      "date": "2026-05-26",
+      "date_modified": "2026-10-30",
+      "doi": "10.5281/zenodo.20443604",
+      "repo": "https://zenodo.org/doi/10.5281/zenodo.20443604",
+      "url": "https://tiempossustentables.cl/arquitectura-valor/",
+      "pdf": "https://tiempossustentables.cl/wp-content/uploads/2026/05/guia-estrategica-de-negocios-y-finanzas-sostenibles-para-el-liderazgo-comercial-latinoamericano.pdf",
+      "dc_type": "Text.Article",
+      "description": "Guía estratégica que propone la Arquitectura de Valor para integrar estrategia comercial, finanzas sostenibles, gobernanza, rentabilidad y gestión de riesgos ESG en organizaciones latinoamericanas.",
+      "keywords": [
+        "Arquitectura de Valor",
+        "Finanzas sostenibles",
+        "ESG",
+        "Liderazgo comercial",
+        "Sostenibilidad corporativa",
+        "Chile",
+        "América Latina"
+      ],
+      "citation_authors_list": [
+        "Blasco Valencia, Jesús Patricio"
+      ]
+    },
+    "brand-finance-2026-valor-marca-sostenibilidad": {
+      "wp_type": "post",
+      "type": [
+        "ScholarlyArticle",
+        "Report"
+      ],
+      "title": "Brand Finance Global 500 2026 bajo la Arquitectura de Valor",
+      "date": "2026-05-28",
+      "date_modified": "2026-10-23",
+      "doi": "10.17605/OSF.IO/CXZMJ",
+      "repo": "https://osf.io/cxzmj",
+      "url": "https://tiempossustentables.cl/brand-finance-2026-valor-marca-sostenibilidad/",
+      "pdf": "https://tiempossustentables.cl/wp-content/uploads/2026/05/brand-finance-2026-arquitectura-de-valor.pdf",
+      "dc_type": "Text.Article",
+      "description": "Análisis de Brand Finance Global 500 2026 desde la perspectiva de la Arquitectura de Valor y la relación entre valor de marca, sostenibilidad y desempeño empresarial.",
+      "keywords": [
+        "Brand Finance",
+        "Arquitectura de Valor",
+        "Negocios sostenibles",
+        "Finanzas sostenibles",
+        "Triple impacto",
+        "Valor de marca"
+      ],
+      "citation_authors_list": [
+        "Blasco Valencia, Jesús Patricio"
+      ]
+    },
+    "economia-circular-chile-latam": {
+      "wp_type": "page",
+      "type": [
+        "ScholarlyArticle",
+        "Report"
+      ],
+      "title": "Economía Circular en Chile y América Latina: Arquitectura Regulatoria, Innovación Tecnológica y Valor ESG hacia 2026",
+      "date": "2026-09-01",
+      "date_modified": "2026-10-30",
+      "doi": "10.17605/OSF.IO/PKY85",
+      "repo": "https://osf.io/pky85",
+      "url": "https://tiempossustentables.cl/economia-circular-chile-latam/",
+      "pdf": "https://tiempossustentables.cl/wp-content/uploads/2026/09/economia-circular-chile-latam.pdf",
+      "dc_type": "Text.Article",
+      "description": "Artículo sobre economía circular en Chile y América Latina, con énfasis en regulación, innovación tecnológica, Ley REP, creación de valor y criterios ESG.",
+      "keywords": [
+        "Economía circular",
+        "Chile",
+        "América Latina",
+        "ESG",
+        "Ley REP",
+        "Cambio climático",
+        "Innovación tecnológica"
+      ],
+      "citation_authors_list": [
+        "Blasco Valencia, Jesús Patricio"
+      ]
+    },
+    "doble-materialidad-esg-reporting-rentabilidad-latam": {
+      "wp_type": "post",
+      "type": [
+        "Article",
+        "Report"
+      ],
+      "title": "Doble materialidad ESG: el puente entre reporting y rentabilidad en América Latina",
+      "date": "2026-07-29",
+      "date_modified": "2026-10-24",
+      "doi": "10.17605/OSF.IO/TYRH7",
+      "repo": "https://osf.io/tyrh7",
+      "url": "https://tiempossustentables.cl/doble-materialidad-esg-reporting-rentabilidad-latam/",
+      "pdf": "",
+      "dc_type": "Text.Article",
+      "description": "Artículo estratégico sobre doble materialidad ESG como conexión entre reporting, impacto, riesgos financieros y rentabilidad empresarial en América Latina.",
+      "keywords": [
+        "Doble materialidad",
+        "ESG",
+        "Reporting",
+        "Rentabilidad",
+        "Sostenibilidad corporativa",
+        "Finanzas sostenibles"
+      ],
+      "citation_authors_list": [
+        "Blasco Valencia, Jesús Patricio"
+      ]
+    },
+    "el-nuevo-paradigma-de-la-sostenibilidad": {
+      "wp_type": "post",
+      "type": [
+        "ScholarlyArticle",
+        "Report"
+      ],
+      "title": "El Nuevo Paradigma de la Sostenibilidad y su Recepción Estratégica",
+      "date": "2026-09-28",
+      "date_modified": "2026-10-10",
+      "url": "https://tiempossustentables.cl/el-nuevo-paradigma-de-la-sostenibilidad/",
+      "pdf": "https://tiempossustentables.cl/wp-content/uploads/2026/09/EL-NUEVO-PARADIGMA-DE-LA-SOSTENIBILIDAD-Y-SU-RECEPCION-ESTRATEGICA.pdf",
+      "video": "https://youtu.be/SEle6L7PWOs",
+      "dc_type": "Text.Article",
+      "description": "Análisis técnico sobre la Grieta ESG en Chile, la trampa de asequibilidad del consumidor en 2026, la brecha de alineación con NIIF S2 y la metodología Arquitectura de Valor.",
+      "keywords": [
+        "Sostenibilidad",
+        "ESG",
+        "Chile",
+        "NIIF S2",
+        "IFRS S2",
+        "CMF",
+        "NCG 461",
+        "Arquitectura de Valor"
+      ],
+      "has_faq": true,
+      "citation_authors_list": [
+        "Blasco Valencia, Jesús Patricio"
+      ]
+    },
+    "esg-trends-radar-arquitectura-de-valor-marketing-sostenible": {
+      "wp_type": "post",
+      "type": [
+        "Report",
+        "ScholarlyArticle"
+      ],
+      "title": "ESG Trends Radar y Arquitectura de Valor para el marketing sostenible",
+      "date": "2026-10-29",
+      "date_modified": "2026-10-29",
+      "doi": "10.5281/zenodo.23749821",
+      "repo": "https://zenodo.org/doi/10.5281/zenodo.23749821",
+      "url": "https://tiempossustentables.cl/esg-trends-radar-arquitectura-de-valor-marketing-sostenible/",
+      "pdf": "https://tiempossustentables.cl/wp-content/uploads/2026/10/ESG_Trends_Radar_Articulo_Report_1_4.pdf",
+      "dc_type": "Text.Article",
+      "description": "Artículo-report metodológico sobre ESG Trends Radar y Arquitectura de Valor para el marketing sostenible. Presenta 18 registros secundarios y el protocolo AV-EXP-01.",
+      "keywords": [
+        "ESG Trends Radar",
+        "Arquitectura de Valor",
+        "Marketing sostenible",
+        "Doble materialidad",
+        "Economía circular",
+        "Ley REP"
+      ],
+      "citation_authors_list": [
+        "Blasco Valencia, Jesús Patricio"
+      ]
+    },
+    "tiempos-sustentables-open-data": {
+      "wp_type": "page",
+      "type": [
+        "Dataset",
+        "SoftwareSourceCode"
+      ],
+      "title": "Tiempos Sustentables Open Data",
+      "date": "2026-10-24",
+      "date_modified": "2026-10-24",
+      "doi": "10.5281/zenodo.23618645",
+      "repo": "https://zenodo.org/doi/10.5281/zenodo.23618645",
+      "url": "https://tiempossustentables.cl/tiempos-sustentables-open-data/",
+      "pdf": "",
+      "dc_type": "Dataset",
+      "is_software": true,
+      "description": "Repositorio público de datos estructurados sobre publicaciones, recursos y autoría de Tiempos Sustentables.",
+      "keywords": [
+        "Open Data",
+        "ESG",
+        "Sostenibilidad",
+        "Dataset",
+        "Chile"
+      ],
+      "citation_authors_list": [
+        "Blasco Valencia, Jesús Patricio"
+      ]
+    },
+    "tiempos-sustentables-y-la-arquitectura-de-valor": {
+      "wp_type": "page",
+      "type": [
+        "ScholarlyArticle"
+      ],
+      "title": "Tiempos Sustentables y la Arquitectura de Valor",
+      "date": "2026-09-02",
+      "date_modified": "2026-10-10",
+      "doi": "10.13140/RG.2.2.19546.50880",
+      "repo": "https://www.researchgate.net/publication/413879666_Tiempos_Sustentables_y_la_Arquitectura_de_Valor/",
+      "url": "https://tiempossustentables.cl/tiempos-sustentables-y-la-arquitectura-de-valor/",
+      "pdf": "https://upload.wikimedia.org/wikipedia/commons/2/29/Tiempos_Sustentables_y_la_Arquitectura_de_Valor.pdf",
+      "dc_type": "Text.Article",
+      "is_preprint": true,
+      "creative_work_status": "Preprint",
+      "description": "Preprint sobre la visión editorial y metodológica de Tiempos Sustentables y su enfoque de Arquitectura de Valor.",
+      "keywords": [
+        "Tiempos Sustentables",
+        "Arquitectura de Valor",
+        "Preprint",
+        "ESG",
+        "Sostenibilidad"
+      ],
+      "citation_authors_list": [
+        "Blasco Valencia, Jesús Patricio"
+      ]
+    },
+    "autosegmentacion-redes-verticales": {
+      "wp_type": "page",
+      "type": [
+        "ScholarlyArticle",
+        "Thesis"
+      ],
+      "title": "La Autosegmentación en las Redes Verticales",
+      "date": "2010",
+      "doi": "10.13140/RG.2.2.34373.20969",
+      "repo": "https://www.researchgate.net/doi/10.13140/RG.2.2.34373.20969",
+      "url": "https://tiempossustentables.cl/autosegmentacion-redes-verticales/",
+      "pdf": "https://tiempossustentables.cl/wp-content/uploads/2026/07/autosegmentacion-redes-verticales.pdf",
+      "dc_type": "Text.Thesis",
+      "is_thesis": true,
+      "publisher": {
+        "@type": "Organization",
+        "@id": "https://www.unab.cl/#organization",
+        "name": "Universidad Andrés Bello",
+        "url": "https://www.unab.cl/"
+      },
+      "description": "Investigación universitaria sobre la segmentación natural de audiencias en redes temáticas y su relación con la eficacia comunicacional.",
+      "keywords": [
+        "Autosegmentación",
+        "Redes verticales",
+        "Marketing digital",
+        "Segmentación",
+        "Tesis"
+      ],
+      "authors": [
+        {
+          "@id": "https://tiempossustentables.cl/#jesus-blasco"
+        },
+        {
+          "@type": "Person",
+          "name": "Julio Orellana"
+        },
+        {
+          "@type": "Person",
+          "name": "Hiang Melcher"
+        }
+      ],
+      "citation_authors_list": [
+        "Blasco Valencia, Jesús Patricio",
+        "Orellana, Julio",
+        "Melcher, Hiang"
+      ]
+    }
+  }
+}

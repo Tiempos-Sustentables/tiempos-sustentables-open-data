@@ -1,0 +1,1849 @@
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": [
+        "Organization",
+        "NewsMediaOrganization"
+      ],
+      "@id": "https://tiempossustentables.cl/#organization",
+      "name": "Tiempos Sustentables",
+      "legalName": "Blasco Comunicaciones SpA",
+      "alternateName": [
+        "Revista Tiempos Sustentables",
+        "TS"
+      ],
+      "url": "https://tiempossustentables.cl/",
+      "logo": {
+        "@id": "https://tiempossustentables.cl/#logo"
+      },
+      "founder": {
+        "@id": "https://tiempossustentables.cl/#jesus-blasco"
+      },
+      "sameAs": [
+        "https://www.wikidata.org/wiki/Q140692688",
+        "https://www.linkedin.com/company/tiempos-sustentables/",
+        "https://www.instagram.com/tiempos_sustentables/"
+      ],
+      "contactPoint": {
+        "@type": "ContactPoint",
+        "contactType": "customer support",
+        "email": "contacto@tiempossustentables.cl",
+        "telephone": "+56962160192",
+        "areaServed": [
+          "Chile",
+          "América Latina"
+        ],
+        "availableLanguage": [
+          "es"
+        ]
+      }
+    },
+    {
+      "@type": "ImageObject",
+      "@id": "https://tiempossustentables.cl/#logo",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/8/8a/Tiempos_Sustentables.jpg",
+      "contentUrl": "https://upload.wikimedia.org/wikipedia/commons/8/8a/Tiempos_Sustentables.jpg",
+      "caption": "Logo de Tiempos Sustentables"
+    },
+    {
+      "@type": "Periodical",
+      "@id": "https://tiempossustentables.cl/#periodical",
+      "name": "Tiempos Sustentables",
+      "url": "https://tiempossustentables.cl/",
+      "issn": "3087-3096",
+      "inLanguage": "es-CL",
+      "isAccessibleForFree": true,
+      "publisher": {
+        "@id": "https://tiempossustentables.cl/#organization"
+      },
+      "editor": {
+        "@id": "https://tiempossustentables.cl/#jesus-blasco"
+      },
+      "license": "https://creativecommons.org/licenses/by/4.0/"
+    },
+    {
+      "@type": "WebSite",
+      "@id": "https://tiempossustentables.cl/#website",
+      "url": "https://tiempossustentables.cl/",
+      "name": "Tiempos Sustentables",
+      "description": "Plataforma de inteligencia ESG, sostenibilidad corporativa y economía circular para empresas y tomadores de decisión en Chile y América Latina.",
+      "publisher": {
+        "@id": "https://tiempossustentables.cl/#organization"
+      },
+      "creator": {
+        "@id": "https://tiempossustentables.cl/#jesus-blasco"
+      },
+      "editor": {
+        "@id": "https://tiempossustentables.cl/#jesus-blasco"
+      },
+      "inLanguage": "es-CL",
+      "license": "https://creativecommons.org/licenses/by/4.0/"
+    },
+    {
+      "@type": "Person",
+      "@id": "https://tiempossustentables.cl/#jesus-blasco",
+      "name": "Jesús Patricio Blasco Valencia",
+      "givenName": "Jesús Patricio",
+      "familyName": "Blasco Valencia",
+      "alternateName": [
+        "Jesús Blasco Valencia",
+        "Jesus Blasco V.",
+        "Jesús Blasco"
+      ],
+      "url": "https://tiempossustentables.cl/jesus-blasco/",
+      "image": {
+        "@id": "https://tiempossustentables.cl/jesus-blasco/#foto-perfil"
+      },
+      "jobTitle": "Director de Tiempos Sustentables",
+      "description": "Estratega comercial y de negocios especializado en crecimiento, control de P&L, sostenibilidad corporativa, ESG, finanzas sostenibles, economía circular, Business Intelligence y transformación digital.",
+      "worksFor": {
+        "@id": "https://tiempossustentables.cl/#organization"
+      },
+      "affiliation": {
+        "@id": "https://tiempossustentables.cl/#organization"
+      },
+      "alumniOf": {
+        "@id": "https://www.unab.cl/#organization"
+      },
+      "address": {
+        "@type": "PostalAddress",
+        "addressLocality": "Santiago",
+        "addressRegion": "Región Metropolitana",
+        "addressCountry": "CL"
+      },
+      "sameAs": [
+        "https://orcid.org/0009-0002-4839-104X",
+        "https://www.wikidata.org/wiki/Q141323847",
+        "https://scholar.google.com/citations?user=i1hEvu4AAAAJ",
+        "https://www.linkedin.com/in/jesusblasco/",
+        "https://osf.io/r8p59/",
+        "https://www.researchgate.net/profile/Jesus-Blasco-Valencia"
+      ],
+      "knowsAbout": [
+        "Arquitectura de Valor",
+        "Doble materialidad ESG",
+        "Finanzas Sostenibles",
+        "Economía Circular",
+        "Marketing Sostenible",
+        "Ley REP",
+        "Norma NCG 461",
+        "Divulgación IFRS S1 e IFRS S2",
+        "Gobierno Corporativo ESG"
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "@id": "https://tiempossustentables.cl/jesus-blasco/#foto-perfil",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/2/22/Jes%C3%BAs_Blasco_Valencia.jpg",
+      "contentUrl": "https://upload.wikimedia.org/wikipedia/commons/2/22/Jes%C3%BAs_Blasco_Valencia.jpg",
+      "caption": "Retrato de Jesús Patricio Blasco Valencia"
+    },
+    {
+      "@type": "Organization",
+      "@id": "https://www.unab.cl/#organization",
+      "name": "Universidad Andrés Bello",
+      "url": "https://www.unab.cl/"
+    },
+    {
+      "@type": "WebPage",
+      "@id": "https://tiempossustentables.cl/#webpage",
+      "url": "https://tiempossustentables.cl/",
+      "name": "Tiempos Sustentables — Inteligencia ESG",
+      "inLanguage": "es-CL",
+      "isPartOf": {
+        "@id": "https://tiempossustentables.cl/#website"
+      },
+      "about": {
+        "@id": "https://tiempossustentables.cl/#organization"
+      }
+    },
+    {
+      "@type": "ProfilePage",
+      "@id": "https://tiempossustentables.cl/jesus-blasco/#webpage",
+      "url": "https://tiempossustentables.cl/jesus-blasco/",
+      "name": "Jesús Patricio Blasco Valencia",
+      "inLanguage": "es-CL",
+      "isPartOf": {
+        "@id": "https://tiempossustentables.cl/#website"
+      },
+      "mainEntity": {
+        "@id": "https://tiempossustentables.cl/#jesus-blasco"
+      },
+      "breadcrumb": {
+        "@id": "https://tiempossustentables.cl/jesus-blasco/#breadcrumb"
+      },
+      "primaryImageOfPage": {
+        "@id": "https://tiempossustentables.cl/jesus-blasco/#foto-perfil"
+      },
+      "mentions": [
+        {
+          "@id": "https://tiempossustentables.cl/jesus-blasco/#obras"
+        }
+      ]
+    },
+    {
+      "@type": "BreadcrumbList",
+      "@id": "https://tiempossustentables.cl/jesus-blasco/#breadcrumb",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Inicio",
+          "item": "https://tiempossustentables.cl/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "Jesús Patricio Blasco Valencia",
+          "item": "https://tiempossustentables.cl/jesus-blasco/"
+        }
+      ]
+    },
+    {
+      "@type": "AboutPage",
+      "@id": "https://tiempossustentables.cl/tiempos-sustentables/#webpage",
+      "url": "https://tiempossustentables.cl/tiempos-sustentables/",
+      "name": "Acerca de Tiempos Sustentables",
+      "inLanguage": "es-CL",
+      "isPartOf": {
+        "@id": "https://tiempossustentables.cl/#website"
+      },
+      "mainEntity": {
+        "@id": "https://tiempossustentables.cl/#organization"
+      },
+      "breadcrumb": {
+        "@id": "https://tiempossustentables.cl/tiempos-sustentables/#breadcrumb"
+      }
+    },
+    {
+      "@type": "BreadcrumbList",
+      "@id": "https://tiempossustentables.cl/tiempos-sustentables/#breadcrumb",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Inicio",
+          "item": "https://tiempossustentables.cl/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "Acerca de Tiempos Sustentables",
+          "item": "https://tiempossustentables.cl/tiempos-sustentables/"
+        }
+      ]
+    },
+    {
+      "@type": [
+        "CollectionPage",
+        "WebPage"
+      ],
+      "@id": "https://tiempossustentables.cl/centro-de-recursos/#webpage",
+      "url": "https://tiempossustentables.cl/centro-de-recursos/",
+      "name": "Centro de Recursos y Transparencia | Tiempos Sustentables",
+      "description": "Repositorio abierto con métricas, marcos ESG, informes, publicaciones y tendencias para Chile y América Latina.",
+      "isPartOf": {
+        "@id": "https://tiempossustentables.cl/#website"
+      },
+      "about": {
+        "@id": "https://tiempossustentables.cl/#organization"
+      },
+      "inLanguage": "es-CL",
+      "breadcrumb": {
+        "@id": "https://tiempossustentables.cl/centro-de-recursos/#breadcrumb"
+      },
+      "mainEntity": {
+        "@id": "https://tiempossustentables.cl/centro-de-recursos/#lista-recursos"
+      }
+    },
+    {
+      "@type": "Dataset",
+      "@id": "https://tiempossustentables.cl/centro-de-recursos/#dataset-regulaciones",
+      "url": "https://tiempossustentables.cl/centro-de-recursos/#regulaciones-marcos-esg",
+      "name": "Regulaciones y Estándares ESG",
+      "description": "Base de marcos regulatorios y estándares ESG aplicables a Chile y América Latina.",
+      "creator": {
+        "@id": "https://tiempossustentables.cl/#organization"
+      },
+      "publisher": {
+        "@id": "https://tiempossustentables.cl/#organization"
+      },
+      "isPartOf": {
+        "@id": "https://tiempossustentables.cl/centro-de-recursos/#webpage"
+      },
+      "inLanguage": "es-CL",
+      "isAccessibleForFree": true,
+      "license": "https://creativecommons.org/licenses/by/4.0/",
+      "about": [
+        {
+          "@type": "DefinedTerm",
+          "name": "Ley REP"
+        },
+        {
+          "@type": "DefinedTerm",
+          "name": "NCG 461"
+        },
+        {
+          "@type": "DefinedTerm",
+          "name": "GRI"
+        },
+        {
+          "@type": "DefinedTerm",
+          "name": "IFRS"
+        },
+        {
+          "@type": "DefinedTerm",
+          "name": "SBTi"
+        }
+      ],
+      "variableMeasured": [
+        "Nombre del marco",
+        "Tipo de instrumento",
+        "Alcance geográfico",
+        "Estado de vigencia"
+      ],
+      "spatialCoverage": {
+        "@type": "Place",
+        "name": "Chile y América Latina"
+      }
+    },
+    {
+      "@type": [
+        "WebApplication",
+        "SoftwareApplication"
+      ],
+      "@id": "https://tiempossustentables.cl/centro-de-recursos/#esg-trends-radar",
+      "url": "https://tiempossustentables.cl/centro-de-recursos/#esg-trends-radar",
+      "name": "ESG Trends Radar",
+      "applicationCategory": "BusinessApplication",
+      "operatingSystem": "Web",
+      "description": "Índice de tendencias y búsquedas corporativas ESG en América Latina, alojado dentro del Centro de Recursos de Tiempos Sustentables.",
+      "publisher": {
+        "@id": "https://tiempossustentables.cl/#organization"
+      },
+      "creator": {
+        "@id": "https://tiempossustentables.cl/#jesus-blasco"
+      },
+      "inLanguage": "es-CL",
+      "isAccessibleForFree": true,
+      "license": "https://creativecommons.org/licenses/by/4.0/",
+      "offers": {
+        "@type": "Offer",
+        "price": "0",
+        "priceCurrency": "CLP",
+        "url": "https://tiempossustentables.cl/centro-de-recursos/#esg-trends-radar"
+      }
+    },
+    {
+      "@type": "Dataset",
+      "@id": "https://tiempossustentables.cl/centro-de-recursos/#dataset-esg-trends-radar",
+      "url": "https://tiempossustentables.cl/centro-de-recursos/#esg-trends-radar",
+      "name": "ESG Trends Radar Dataset",
+      "description": "Conjunto de tendencias ESG, búsquedas corporativas y señales de mercado para América Latina.",
+      "creator": {
+        "@id": "https://tiempossustentables.cl/#organization"
+      },
+      "publisher": {
+        "@id": "https://tiempossustentables.cl/#organization"
+      },
+      "inLanguage": "es-CL",
+      "isAccessibleForFree": true,
+      "license": "https://creativecommons.org/licenses/by/4.0/",
+      "keywords": [
+        "Tendencias ESG",
+        "Búsquedas corporativas",
+        "Descarbonización",
+        "Economía circular",
+        "Sostenibilidad corporativa"
+      ],
+      "variableMeasured": [
+        "Tendencia",
+        "Volumen de búsqueda",
+        "Fecha de observación",
+        "Alcance geográfico"
+      ],
+      "spatialCoverage": {
+        "@type": "Place",
+        "name": "América Latina"
+      }
+    },
+    {
+      "@type": [
+        "WebApplication",
+        "SoftwareApplication"
+      ],
+      "@id": "https://diagnostico.tiempossustentables.cl/#app",
+      "url": "https://diagnostico.tiempossustentables.cl/",
+      "name": "Herramienta de Diagnóstico para Empresas",
+      "applicationCategory": "BusinessApplication",
+      "operatingSystem": "Web",
+      "description": "Plataforma de autoevaluación gratuita, interactiva y de libre uso que entrega una radiografía estratégica, financiera y de impacto para identificar brechas y oportunidades ESG.",
+      "publisher": {
+        "@id": "https://tiempossustentables.cl/#organization"
+      },
+      "creator": {
+        "@id": "https://tiempossustentables.cl/#jesus-blasco"
+      },
+      "inLanguage": "es-CL",
+      "isAccessibleForFree": true,
+      "license": "https://creativecommons.org/licenses/by/4.0/",
+      "offers": {
+        "@type": "Offer",
+        "price": "0",
+        "priceCurrency": "CLP",
+        "url": "https://diagnostico.tiempossustentables.cl/"
+      }
+    },
+    {
+      "@type": "Service",
+      "@id": "https://tiempossustentables.cl/servicios-b2b/#service",
+      "url": "https://tiempossustentables.cl/servicios-b2b/",
+      "name": "Servicios corporativos B2B en sostenibilidad y posicionamiento ESG",
+      "description": "Servicios corporativos para transformar iniciativas de sostenibilidad en posicionamiento de marca, claridad estratégica y oportunidades de negocio.",
+      "provider": {
+        "@id": "https://tiempossustentables.cl/#organization"
+      },
+      "brand": {
+        "@id": "https://tiempossustentables.cl/#organization"
+      },
+      "hasOfferCatalog": {
+        "@type": "OfferCatalog",
+        "name": "Portafolio de servicios B2B en sostenibilidad y posicionamiento ESG",
+        "itemListElement": [
+          {
+            "@type": "Offer",
+            "itemOffered": {
+              "@type": "Service",
+              "name": "Suscripción Corporativa B2B",
+              "description": "Modelo estratégico de contenido y amplificación digital para posicionar hitos ESG y fortalecer reputación de marca."
+            }
+          },
+          {
+            "@type": "Offer",
+            "url": "https://diagnostico.tiempossustentables.cl/",
+            "price": "0",
+            "priceCurrency": "CLP",
+            "itemOffered": {
+              "@type": "Service",
+              "name": "Herramienta de Diagnóstico para Empresas",
+              "url": "https://diagnostico.tiempossustentables.cl/",
+              "description": "Plataforma de autoevaluación gratuita para identificar brechas y oportunidades ESG."
+            }
+          },
+          {
+            "@type": "Offer",
+            "itemOffered": {
+              "@type": "Service",
+              "name": "Consultorías Especializadas en ESG",
+              "description": "Asesoría estratégica para fortalecer propuesta de valor, narrativa ESG, posicionamiento comercial y coherencia entre impacto real y comunicación corporativa."
+            }
+          }
+        ]
+      },
+      "areaServed": [
+        {
+          "@type": "Country",
+          "name": "Chile"
+        },
+        {
+          "@type": "Place",
+          "name": "América Latina"
+        }
+      ]
+    },
+    {
+      "@type": "WebPage",
+      "@id": "https://tiempossustentables.cl/servicios-b2b/#webpage",
+      "url": "https://tiempossustentables.cl/servicios-b2b/",
+      "name": "Servicios Corporativos B2B | Tiempos Sustentables",
+      "isPartOf": {
+        "@id": "https://tiempossustentables.cl/#website"
+      },
+      "about": {
+        "@id": "https://tiempossustentables.cl/servicios-b2b/#service"
+      },
+      "mainEntity": {
+        "@id": "https://tiempossustentables.cl/servicios-b2b/#service"
+      },
+      "inLanguage": "es-CL",
+      "breadcrumb": {
+        "@id": "https://tiempossustentables.cl/servicios-b2b/#breadcrumb"
+      }
+    },
+    {
+      "@type": "BreadcrumbList",
+      "@id": "https://tiempossustentables.cl/centro-de-recursos/#breadcrumb",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Inicio",
+          "item": "https://tiempossustentables.cl/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "Centro de Recursos y Transparencia | Tiempos Sustentables",
+          "item": "https://tiempossustentables.cl/centro-de-recursos/"
+        }
+      ]
+    },
+    {
+      "@type": "BreadcrumbList",
+      "@id": "https://tiempossustentables.cl/servicios-b2b/#breadcrumb",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Inicio",
+          "item": "https://tiempossustentables.cl/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "Servicios Corporativos B2B | Tiempos Sustentables",
+          "item": "https://tiempossustentables.cl/servicios-b2b/"
+        }
+      ]
+    },
+    {
+      "@type": "MediaObject",
+      "@id": "https://tiempossustentables.cl/wp-content/uploads/2026/05/guia-estrategica-de-negocios-y-finanzas-sostenibles-para-el-liderazgo-comercial-latinoamericano.pdf#pdf",
+      "contentUrl": "https://tiempossustentables.cl/wp-content/uploads/2026/05/guia-estrategica-de-negocios-y-finanzas-sostenibles-para-el-liderazgo-comercial-latinoamericano.pdf",
+      "encodingFormat": "application/pdf",
+      "name": "PDF de Guía Estratégica de Negocios y Finanzas Sostenibles para el Liderazgo Comercial Latinoamericano",
+      "isAccessibleForFree": true,
+      "license": "https://creativecommons.org/licenses/by/4.0/"
+    },
+    {
+      "@type": [
+        "Report",
+        "ScholarlyArticle"
+      ],
+      "@id": "https://tiempossustentables.cl/arquitectura-valor/#work",
+      "url": "https://tiempossustentables.cl/arquitectura-valor/",
+      "name": "Guía Estratégica de Negocios y Finanzas Sostenibles para el Liderazgo Comercial Latinoamericano",
+      "headline": "Guía Estratégica de Negocios y Finanzas Sostenibles para el Liderazgo Comercial Latinoamericano",
+      "description": "Guía estratégica que propone la Arquitectura de Valor para integrar estrategia comercial, finanzas sostenibles, gobernanza, rentabilidad y gestión de riesgos ESG en organizaciones latinoamericanas.",
+      "author": {
+        "@id": "https://tiempossustentables.cl/#jesus-blasco"
+      },
+      "publisher": {
+        "@id": "https://tiempossustentables.cl/#organization"
+      },
+      "datePublished": "2026-05-26",
+      "inLanguage": "es-CL",
+      "isAccessibleForFree": true,
+      "license": "https://creativecommons.org/licenses/by/4.0/",
+      "keywords": [
+        "Arquitectura de Valor",
+        "Finanzas sostenibles",
+        "ESG",
+        "Liderazgo comercial",
+        "Sostenibilidad corporativa",
+        "Chile",
+        "América Latina"
+      ],
+      "mainEntityOfPage": {
+        "@id": "https://tiempossustentables.cl/arquitectura-valor/#webpage"
+      },
+      "dateModified": "2026-10-30",
+      "isPartOf": {
+        "@id": "https://tiempossustentables.cl/#periodical"
+      },
+      "identifier": {
+        "@type": "PropertyValue",
+        "propertyID": "DOI",
+        "value": "10.5281/zenodo.20443604",
+        "url": "https://doi.org/10.5281/zenodo.20443604"
+      },
+      "sameAs": [
+        "https://doi.org/10.5281/zenodo.20443604",
+        "https://zenodo.org/doi/10.5281/zenodo.20443604",
+        "https://doi.org/10.5281/zenodo.22784717",
+        "https://doi.org/10.5281/zenodo.20443605"
+      ],
+      "associatedMedia": {
+        "@id": "https://tiempossustentables.cl/wp-content/uploads/2026/05/guia-estrategica-de-negocios-y-finanzas-sostenibles-para-el-liderazgo-comercial-latinoamericano.pdf#pdf"
+      }
+    },
+    {
+      "@type": "WebPage",
+      "@id": "https://tiempossustentables.cl/arquitectura-valor/#webpage",
+      "url": "https://tiempossustentables.cl/arquitectura-valor/",
+      "name": "Guía Estratégica de Negocios y Finanzas Sostenibles para el Liderazgo Comercial Latinoamericano",
+      "inLanguage": "es-CL",
+      "isPartOf": {
+        "@id": "https://tiempossustentables.cl/#website"
+      },
+      "mainEntity": {
+        "@id": "https://tiempossustentables.cl/arquitectura-valor/#work"
+      },
+      "breadcrumb": {
+        "@id": "https://tiempossustentables.cl/arquitectura-valor/#breadcrumb"
+      }
+    },
+    {
+      "@type": "BreadcrumbList",
+      "@id": "https://tiempossustentables.cl/arquitectura-valor/#breadcrumb",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Inicio",
+          "item": "https://tiempossustentables.cl/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "Guía Estratégica de Negocios y Finanzas Sostenibles para el Liderazgo Comercial Latinoamericano",
+          "item": "https://tiempossustentables.cl/arquitectura-valor/"
+        }
+      ]
+    },
+    {
+      "@type": "MediaObject",
+      "@id": "https://tiempossustentables.cl/wp-content/uploads/2026/05/brand-finance-2026-arquitectura-de-valor.pdf#pdf",
+      "contentUrl": "https://tiempossustentables.cl/wp-content/uploads/2026/05/brand-finance-2026-arquitectura-de-valor.pdf",
+      "encodingFormat": "application/pdf",
+      "name": "PDF de Brand Finance Global 500 2026 bajo la Arquitectura de Valor",
+      "isAccessibleForFree": true,
+      "license": "https://creativecommons.org/licenses/by/4.0/"
+    },
+    {
+      "@type": [
+        "ScholarlyArticle",
+        "Report"
+      ],
+      "@id": "https://tiempossustentables.cl/brand-finance-2026-valor-marca-sostenibilidad/#work",
+      "url": "https://tiempossustentables.cl/brand-finance-2026-valor-marca-sostenibilidad/",
+      "name": "Brand Finance Global 500 2026 bajo la Arquitectura de Valor",
+      "headline": "Brand Finance Global 500 2026 bajo la Arquitectura de Valor",
+      "description": "Análisis de Brand Finance Global 500 2026 desde la perspectiva de la Arquitectura de Valor y la relación entre valor de marca, sostenibilidad y desempeño empresarial.",
+      "author": {
+        "@id": "https://tiempossustentables.cl/#jesus-blasco"
+      },
+      "publisher": {
+        "@id": "https://tiempossustentables.cl/#organization"
+      },
+      "datePublished": "2026-05-28",
+      "inLanguage": "es-CL",
+      "isAccessibleForFree": true,
+      "license": "https://creativecommons.org/licenses/by/4.0/",
+      "keywords": [
+        "Brand Finance",
+        "Arquitectura de Valor",
+        "Negocios sostenibles",
+        "Finanzas sostenibles",
+        "Triple impacto",
+        "Valor de marca"
+      ],
+      "mainEntityOfPage": {
+        "@id": "https://tiempossustentables.cl/brand-finance-2026-valor-marca-sostenibilidad/#webpage"
+      },
+      "dateModified": "2026-10-23",
+      "isPartOf": {
+        "@id": "https://tiempossustentables.cl/#periodical"
+      },
+      "identifier": {
+        "@type": "PropertyValue",
+        "propertyID": "DOI",
+        "value": "10.17605/OSF.IO/CXZMJ",
+        "url": "https://doi.org/10.17605/OSF.IO/CXZMJ"
+      },
+      "sameAs": [
+        "https://doi.org/10.17605/OSF.IO/CXZMJ",
+        "https://osf.io/cxzmj",
+        "https://doi.org/10.17605/OSF.IO/CHW3J"
+      ],
+      "associatedMedia": {
+        "@id": "https://tiempossustentables.cl/wp-content/uploads/2026/05/brand-finance-2026-arquitectura-de-valor.pdf#pdf"
+      }
+    },
+    {
+      "@type": "WebPage",
+      "@id": "https://tiempossustentables.cl/brand-finance-2026-valor-marca-sostenibilidad/#webpage",
+      "url": "https://tiempossustentables.cl/brand-finance-2026-valor-marca-sostenibilidad/",
+      "name": "Brand Finance Global 500 2026 bajo la Arquitectura de Valor",
+      "inLanguage": "es-CL",
+      "isPartOf": {
+        "@id": "https://tiempossustentables.cl/#website"
+      },
+      "mainEntity": {
+        "@id": "https://tiempossustentables.cl/brand-finance-2026-valor-marca-sostenibilidad/#work"
+      },
+      "breadcrumb": {
+        "@id": "https://tiempossustentables.cl/brand-finance-2026-valor-marca-sostenibilidad/#breadcrumb"
+      }
+    },
+    {
+      "@type": "BreadcrumbList",
+      "@id": "https://tiempossustentables.cl/brand-finance-2026-valor-marca-sostenibilidad/#breadcrumb",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Inicio",
+          "item": "https://tiempossustentables.cl/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "Brand Finance Global 500 2026 bajo la Arquitectura de Valor",
+          "item": "https://tiempossustentables.cl/brand-finance-2026-valor-marca-sostenibilidad/"
+        }
+      ]
+    },
+    {
+      "@type": "MediaObject",
+      "@id": "https://tiempossustentables.cl/wp-content/uploads/2026/09/economia-circular-chile-latam.pdf#pdf",
+      "contentUrl": "https://tiempossustentables.cl/wp-content/uploads/2026/09/economia-circular-chile-latam.pdf",
+      "encodingFormat": "application/pdf",
+      "name": "PDF de Economía Circular en Chile y América Latina: Arquitectura Regulatoria, Innovación Tecnológica y Valor ESG hacia 2026",
+      "isAccessibleForFree": true,
+      "license": "https://creativecommons.org/licenses/by/4.0/"
+    },
+    {
+      "@type": [
+        "ScholarlyArticle",
+        "Report"
+      ],
+      "@id": "https://tiempossustentables.cl/economia-circular-chile-latam/#work",
+      "url": "https://tiempossustentables.cl/economia-circular-chile-latam/",
+      "name": "Economía Circular en Chile y América Latina: Arquitectura Regulatoria, Innovación Tecnológica y Valor ESG hacia 2026",
+      "headline": "Economía Circular en Chile y América Latina: Arquitectura Regulatoria, Innovación Tecnológica y Valor ESG hacia 2026",
+      "description": "Artículo sobre economía circular en Chile y América Latina, con énfasis en regulación, innovación tecnológica, Ley REP, creación de valor y criterios ESG.",
+      "author": {
+        "@id": "https://tiempossustentables.cl/#jesus-blasco"
+      },
+      "publisher": {
+        "@id": "https://tiempossustentables.cl/#organization"
+      },
+      "datePublished": "2026-09-01",
+      "inLanguage": "es-CL",
+      "isAccessibleForFree": true,
+      "license": "https://creativecommons.org/licenses/by/4.0/",
+      "keywords": [
+        "Economía circular",
+        "Chile",
+        "América Latina",
+        "ESG",
+        "Ley REP",
+        "Cambio climático",
+        "Innovación tecnológica"
+      ],
+      "mainEntityOfPage": {
+        "@id": "https://tiempossustentables.cl/economia-circular-chile-latam/#webpage"
+      },
+      "dateModified": "2026-10-30",
+      "isPartOf": {
+        "@id": "https://tiempossustentables.cl/#periodical"
+      },
+      "identifier": {
+        "@type": "PropertyValue",
+        "propertyID": "DOI",
+        "value": "10.17605/OSF.IO/PKY85",
+        "url": "https://doi.org/10.17605/OSF.IO/PKY85"
+      },
+      "sameAs": [
+        "https://doi.org/10.17605/OSF.IO/PKY85",
+        "https://osf.io/pky85",
+        "https://doi.org/10.17605/OSF.IO/Q57PZ"
+      ],
+      "associatedMedia": {
+        "@id": "https://tiempossustentables.cl/wp-content/uploads/2026/09/economia-circular-chile-latam.pdf#pdf"
+      }
+    },
+    {
+      "@type": "WebPage",
+      "@id": "https://tiempossustentables.cl/economia-circular-chile-latam/#webpage",
+      "url": "https://tiempossustentables.cl/economia-circular-chile-latam/",
+      "name": "Economía Circular en Chile y América Latina: Arquitectura Regulatoria, Innovación Tecnológica y Valor ESG hacia 2026",
+      "inLanguage": "es-CL",
+      "isPartOf": {
+        "@id": "https://tiempossustentables.cl/#website"
+      },
+      "mainEntity": {
+        "@id": "https://tiempossustentables.cl/economia-circular-chile-latam/#work"
+      },
+      "breadcrumb": {
+        "@id": "https://tiempossustentables.cl/economia-circular-chile-latam/#breadcrumb"
+      }
+    },
+    {
+      "@type": "BreadcrumbList",
+      "@id": "https://tiempossustentables.cl/economia-circular-chile-latam/#breadcrumb",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Inicio",
+          "item": "https://tiempossustentables.cl/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "Economía Circular en Chile y América Latina: Arquitectura Regulatoria, Innovación Tecnológica y Valor ESG hacia 2026",
+          "item": "https://tiempossustentables.cl/economia-circular-chile-latam/"
+        }
+      ]
+    },
+    {
+      "@type": [
+        "Article",
+        "Report"
+      ],
+      "@id": "https://tiempossustentables.cl/doble-materialidad-esg-reporting-rentabilidad-latam/#work",
+      "url": "https://tiempossustentables.cl/doble-materialidad-esg-reporting-rentabilidad-latam/",
+      "name": "Doble materialidad ESG: el puente entre reporting y rentabilidad en América Latina",
+      "headline": "Doble materialidad ESG: el puente entre reporting y rentabilidad en América Latina",
+      "description": "Artículo estratégico sobre doble materialidad ESG como conexión entre reporting, impacto, riesgos financieros y rentabilidad empresarial en América Latina.",
+      "author": {
+        "@id": "https://tiempossustentables.cl/#jesus-blasco"
+      },
+      "publisher": {
+        "@id": "https://tiempossustentables.cl/#organization"
+      },
+      "datePublished": "2026-07-29",
+      "inLanguage": "es-CL",
+      "isAccessibleForFree": true,
+      "license": "https://creativecommons.org/licenses/by/4.0/",
+      "keywords": [
+        "Doble materialidad",
+        "ESG",
+        "Reporting",
+        "Rentabilidad",
+        "Sostenibilidad corporativa",
+        "Finanzas sostenibles"
+      ],
+      "mainEntityOfPage": {
+        "@id": "https://tiempossustentables.cl/doble-materialidad-esg-reporting-rentabilidad-latam/#webpage"
+      },
+      "dateModified": "2026-10-24",
+      "isPartOf": {
+        "@id": "https://tiempossustentables.cl/#periodical"
+      },
+      "identifier": {
+        "@type": "PropertyValue",
+        "propertyID": "DOI",
+        "value": "10.17605/OSF.IO/TYRH7",
+        "url": "https://doi.org/10.17605/OSF.IO/TYRH7"
+      },
+      "sameAs": [
+        "https://doi.org/10.17605/OSF.IO/TYRH7",
+        "https://osf.io/tyrh7"
+      ]
+    },
+    {
+      "@type": "WebPage",
+      "@id": "https://tiempossustentables.cl/doble-materialidad-esg-reporting-rentabilidad-latam/#webpage",
+      "url": "https://tiempossustentables.cl/doble-materialidad-esg-reporting-rentabilidad-latam/",
+      "name": "Doble materialidad ESG: el puente entre reporting y rentabilidad en América Latina",
+      "inLanguage": "es-CL",
+      "isPartOf": {
+        "@id": "https://tiempossustentables.cl/#website"
+      },
+      "mainEntity": {
+        "@id": "https://tiempossustentables.cl/doble-materialidad-esg-reporting-rentabilidad-latam/#work"
+      },
+      "breadcrumb": {
+        "@id": "https://tiempossustentables.cl/doble-materialidad-esg-reporting-rentabilidad-latam/#breadcrumb"
+      }
+    },
+    {
+      "@type": "BreadcrumbList",
+      "@id": "https://tiempossustentables.cl/doble-materialidad-esg-reporting-rentabilidad-latam/#breadcrumb",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Inicio",
+          "item": "https://tiempossustentables.cl/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "Doble materialidad ESG: el puente entre reporting y rentabilidad en América Latina",
+          "item": "https://tiempossustentables.cl/doble-materialidad-esg-reporting-rentabilidad-latam/"
+        }
+      ]
+    },
+    {
+      "@type": "MediaObject",
+      "@id": "https://tiempossustentables.cl/wp-content/uploads/2026/09/EL-NUEVO-PARADIGMA-DE-LA-SOSTENIBILIDAD-Y-SU-RECEPCION-ESTRATEGICA.pdf#pdf",
+      "contentUrl": "https://tiempossustentables.cl/wp-content/uploads/2026/09/EL-NUEVO-PARADIGMA-DE-LA-SOSTENIBILIDAD-Y-SU-RECEPCION-ESTRATEGICA.pdf",
+      "encodingFormat": "application/pdf",
+      "name": "PDF de El Nuevo Paradigma de la Sostenibilidad y su Recepción Estratégica",
+      "isAccessibleForFree": true,
+      "license": "https://creativecommons.org/licenses/by/4.0/"
+    },
+    {
+      "@type": [
+        "ScholarlyArticle",
+        "Report"
+      ],
+      "@id": "https://tiempossustentables.cl/el-nuevo-paradigma-de-la-sostenibilidad/#work",
+      "url": "https://tiempossustentables.cl/el-nuevo-paradigma-de-la-sostenibilidad/",
+      "name": "El Nuevo Paradigma de la Sostenibilidad y su Recepción Estratégica",
+      "headline": "El Nuevo Paradigma de la Sostenibilidad y su Recepción Estratégica",
+      "description": "Análisis técnico sobre la Grieta ESG en Chile, la trampa de asequibilidad del consumidor en 2026, la brecha de alineación con NIIF S2 y la metodología Arquitectura de Valor.",
+      "author": {
+        "@id": "https://tiempossustentables.cl/#jesus-blasco"
+      },
+      "publisher": {
+        "@id": "https://tiempossustentables.cl/#organization"
+      },
+      "datePublished": "2026-09-28",
+      "inLanguage": "es-CL",
+      "isAccessibleForFree": true,
+      "license": "https://creativecommons.org/licenses/by/4.0/",
+      "keywords": [
+        "Sostenibilidad",
+        "ESG",
+        "Chile",
+        "NIIF S2",
+        "IFRS S2",
+        "CMF",
+        "NCG 461",
+        "Arquitectura de Valor"
+      ],
+      "mainEntityOfPage": {
+        "@id": "https://tiempossustentables.cl/el-nuevo-paradigma-de-la-sostenibilidad/#webpage"
+      },
+      "dateModified": "2026-10-10",
+      "isPartOf": {
+        "@id": "https://tiempossustentables.cl/#periodical"
+      },
+      "associatedMedia": {
+        "@id": "https://tiempossustentables.cl/wp-content/uploads/2026/09/EL-NUEVO-PARADIGMA-DE-LA-SOSTENIBILIDAD-Y-SU-RECEPCION-ESTRATEGICA.pdf#pdf"
+      }
+    },
+    {
+      "@type": "WebPage",
+      "@id": "https://tiempossustentables.cl/el-nuevo-paradigma-de-la-sostenibilidad/#webpage",
+      "url": "https://tiempossustentables.cl/el-nuevo-paradigma-de-la-sostenibilidad/",
+      "name": "El Nuevo Paradigma de la Sostenibilidad y su Recepción Estratégica",
+      "inLanguage": "es-CL",
+      "isPartOf": {
+        "@id": "https://tiempossustentables.cl/#website"
+      },
+      "mainEntity": {
+        "@id": "https://tiempossustentables.cl/el-nuevo-paradigma-de-la-sostenibilidad/#work"
+      },
+      "breadcrumb": {
+        "@id": "https://tiempossustentables.cl/el-nuevo-paradigma-de-la-sostenibilidad/#breadcrumb"
+      }
+    },
+    {
+      "@type": "BreadcrumbList",
+      "@id": "https://tiempossustentables.cl/el-nuevo-paradigma-de-la-sostenibilidad/#breadcrumb",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Inicio",
+          "item": "https://tiempossustentables.cl/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "El Nuevo Paradigma de la Sostenibilidad y su Recepción Estratégica",
+          "item": "https://tiempossustentables.cl/el-nuevo-paradigma-de-la-sostenibilidad/"
+        }
+      ]
+    },
+    {
+      "@type": "MediaObject",
+      "@id": "https://tiempossustentables.cl/wp-content/uploads/2026/10/ESG_Trends_Radar_Articulo_Report_1_4.pdf#pdf",
+      "contentUrl": "https://tiempossustentables.cl/wp-content/uploads/2026/10/ESG_Trends_Radar_Articulo_Report_1_4.pdf",
+      "encodingFormat": "application/pdf",
+      "name": "PDF de ESG Trends Radar y Arquitectura de Valor para el marketing sostenible",
+      "isAccessibleForFree": true,
+      "license": "https://creativecommons.org/licenses/by/4.0/"
+    },
+    {
+      "@type": [
+        "Report",
+        "ScholarlyArticle"
+      ],
+      "@id": "https://tiempossustentables.cl/esg-trends-radar-arquitectura-de-valor-marketing-sostenible/#work",
+      "url": "https://tiempossustentables.cl/esg-trends-radar-arquitectura-de-valor-marketing-sostenible/",
+      "name": "ESG Trends Radar y Arquitectura de Valor para el marketing sostenible",
+      "headline": "ESG Trends Radar y Arquitectura de Valor para el marketing sostenible",
+      "description": "Artículo-report metodológico sobre ESG Trends Radar y Arquitectura de Valor para el marketing sostenible. Presenta 18 registros secundarios y el protocolo AV-EXP-01.",
+      "author": {
+        "@id": "https://tiempossustentables.cl/#jesus-blasco"
+      },
+      "publisher": {
+        "@id": "https://tiempossustentables.cl/#organization"
+      },
+      "datePublished": "2026-10-29",
+      "inLanguage": "es-CL",
+      "isAccessibleForFree": true,
+      "license": "https://creativecommons.org/licenses/by/4.0/",
+      "keywords": [
+        "ESG Trends Radar",
+        "Arquitectura de Valor",
+        "Marketing sostenible",
+        "Doble materialidad",
+        "Economía circular",
+        "Ley REP"
+      ],
+      "mainEntityOfPage": {
+        "@id": "https://tiempossustentables.cl/esg-trends-radar-arquitectura-de-valor-marketing-sostenible/#webpage"
+      },
+      "dateModified": "2026-10-29",
+      "isPartOf": {
+        "@id": "https://tiempossustentables.cl/#periodical"
+      },
+      "identifier": {
+        "@type": "PropertyValue",
+        "propertyID": "DOI",
+        "value": "10.5281/zenodo.23749821",
+        "url": "https://doi.org/10.5281/zenodo.23749821"
+      },
+      "sameAs": [
+        "https://doi.org/10.5281/zenodo.23749821",
+        "https://zenodo.org/doi/10.5281/zenodo.23749821",
+        "https://doi.org/10.5281/zenodo.23749820"
+      ],
+      "associatedMedia": {
+        "@id": "https://tiempossustentables.cl/wp-content/uploads/2026/10/ESG_Trends_Radar_Articulo_Report_1_4.pdf#pdf"
+      }
+    },
+    {
+      "@type": "WebPage",
+      "@id": "https://tiempossustentables.cl/esg-trends-radar-arquitectura-de-valor-marketing-sostenible/#webpage",
+      "url": "https://tiempossustentables.cl/esg-trends-radar-arquitectura-de-valor-marketing-sostenible/",
+      "name": "ESG Trends Radar y Arquitectura de Valor para el marketing sostenible",
+      "inLanguage": "es-CL",
+      "isPartOf": {
+        "@id": "https://tiempossustentables.cl/#website"
+      },
+      "mainEntity": {
+        "@id": "https://tiempossustentables.cl/esg-trends-radar-arquitectura-de-valor-marketing-sostenible/#work"
+      },
+      "breadcrumb": {
+        "@id": "https://tiempossustentables.cl/esg-trends-radar-arquitectura-de-valor-marketing-sostenible/#breadcrumb"
+      }
+    },
+    {
+      "@type": "BreadcrumbList",
+      "@id": "https://tiempossustentables.cl/esg-trends-radar-arquitectura-de-valor-marketing-sostenible/#breadcrumb",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Inicio",
+          "item": "https://tiempossustentables.cl/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "ESG Trends Radar y Arquitectura de Valor para el marketing sostenible",
+          "item": "https://tiempossustentables.cl/esg-trends-radar-arquitectura-de-valor-marketing-sostenible/"
+        }
+      ]
+    },
+    {
+      "@type": [
+        "Dataset",
+        "SoftwareSourceCode"
+      ],
+      "@id": "https://tiempossustentables.cl/tiempos-sustentables-open-data/#work",
+      "url": "https://tiempossustentables.cl/tiempos-sustentables-open-data/",
+      "name": "Tiempos Sustentables Open Data",
+      "headline": "Tiempos Sustentables Open Data",
+      "description": "Repositorio público de datos estructurados sobre publicaciones, recursos y autoría de Tiempos Sustentables.",
+      "author": {
+        "@id": "https://tiempossustentables.cl/#jesus-blasco"
+      },
+      "publisher": {
+        "@id": "https://tiempossustentables.cl/#organization"
+      },
+      "datePublished": "2026-10-24",
+      "inLanguage": "es-CL",
+      "isAccessibleForFree": true,
+      "license": "https://creativecommons.org/licenses/by/4.0/",
+      "keywords": [
+        "Open Data",
+        "ESG",
+        "Sostenibilidad",
+        "Dataset",
+        "Chile"
+      ],
+      "mainEntityOfPage": {
+        "@id": "https://tiempossustentables.cl/tiempos-sustentables-open-data/#webpage"
+      },
+      "dateModified": "2026-10-24",
+      "identifier": {
+        "@type": "PropertyValue",
+        "propertyID": "DOI",
+        "value": "10.5281/zenodo.23618645",
+        "url": "https://doi.org/10.5281/zenodo.23618645"
+      },
+      "sameAs": [
+        "https://doi.org/10.5281/zenodo.23618645",
+        "https://zenodo.org/doi/10.5281/zenodo.23618645",
+        "https://doi.org/10.5281/zenodo.23618644"
+      ],
+      "codeRepository": "https://github.com/Tiempos-Sustentables/tiempos-sustentables-open-data"
+    },
+    {
+      "@type": "WebPage",
+      "@id": "https://tiempossustentables.cl/tiempos-sustentables-open-data/#webpage",
+      "url": "https://tiempossustentables.cl/tiempos-sustentables-open-data/",
+      "name": "Tiempos Sustentables Open Data",
+      "inLanguage": "es-CL",
+      "isPartOf": {
+        "@id": "https://tiempossustentables.cl/#website"
+      },
+      "mainEntity": {
+        "@id": "https://tiempossustentables.cl/tiempos-sustentables-open-data/#work"
+      },
+      "breadcrumb": {
+        "@id": "https://tiempossustentables.cl/tiempos-sustentables-open-data/#breadcrumb"
+      }
+    },
+    {
+      "@type": "BreadcrumbList",
+      "@id": "https://tiempossustentables.cl/tiempos-sustentables-open-data/#breadcrumb",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Inicio",
+          "item": "https://tiempossustentables.cl/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "Tiempos Sustentables Open Data",
+          "item": "https://tiempossustentables.cl/tiempos-sustentables-open-data/"
+        }
+      ]
+    },
+    {
+      "@type": "MediaObject",
+      "@id": "https://upload.wikimedia.org/wikipedia/commons/2/29/Tiempos_Sustentables_y_la_Arquitectura_de_Valor.pdf#pdf",
+      "contentUrl": "https://upload.wikimedia.org/wikipedia/commons/2/29/Tiempos_Sustentables_y_la_Arquitectura_de_Valor.pdf",
+      "encodingFormat": "application/pdf",
+      "name": "PDF de Tiempos Sustentables y la Arquitectura de Valor",
+      "isAccessibleForFree": true,
+      "license": "https://creativecommons.org/licenses/by/4.0/"
+    },
+    {
+      "@type": [
+        "ScholarlyArticle"
+      ],
+      "@id": "https://tiempossustentables.cl/tiempos-sustentables-y-la-arquitectura-de-valor/#work",
+      "url": "https://tiempossustentables.cl/tiempos-sustentables-y-la-arquitectura-de-valor/",
+      "name": "Tiempos Sustentables y la Arquitectura de Valor",
+      "headline": "Tiempos Sustentables y la Arquitectura de Valor",
+      "description": "Preprint sobre la visión editorial y metodológica de Tiempos Sustentables y su enfoque de Arquitectura de Valor.",
+      "author": {
+        "@id": "https://tiempossustentables.cl/#jesus-blasco"
+      },
+      "publisher": {
+        "@id": "https://tiempossustentables.cl/#organization"
+      },
+      "datePublished": "2026-09-02",
+      "inLanguage": "es-CL",
+      "isAccessibleForFree": true,
+      "license": "https://creativecommons.org/licenses/by/4.0/",
+      "keywords": [
+        "Tiempos Sustentables",
+        "Arquitectura de Valor",
+        "Preprint",
+        "ESG",
+        "Sostenibilidad"
+      ],
+      "mainEntityOfPage": {
+        "@id": "https://tiempossustentables.cl/tiempos-sustentables-y-la-arquitectura-de-valor/#webpage"
+      },
+      "dateModified": "2026-10-10",
+      "creativeWorkStatus": "Preprint",
+      "identifier": {
+        "@type": "PropertyValue",
+        "propertyID": "DOI",
+        "value": "10.13140/RG.2.2.19546.50880",
+        "url": "https://doi.org/10.13140/RG.2.2.19546.50880"
+      },
+      "sameAs": [
+        "https://doi.org/10.13140/RG.2.2.19546.50880",
+        "https://www.researchgate.net/publication/413879666_Tiempos_Sustentables_y_la_Arquitectura_de_Valor/",
+        "https://doi.org/10.13140/rg.2.2.19546.50880"
+      ],
+      "associatedMedia": {
+        "@id": "https://upload.wikimedia.org/wikipedia/commons/2/29/Tiempos_Sustentables_y_la_Arquitectura_de_Valor.pdf#pdf"
+      }
+    },
+    {
+      "@type": "WebPage",
+      "@id": "https://tiempossustentables.cl/tiempos-sustentables-y-la-arquitectura-de-valor/#webpage",
+      "url": "https://tiempossustentables.cl/tiempos-sustentables-y-la-arquitectura-de-valor/",
+      "name": "Tiempos Sustentables y la Arquitectura de Valor",
+      "inLanguage": "es-CL",
+      "isPartOf": {
+        "@id": "https://tiempossustentables.cl/#website"
+      },
+      "mainEntity": {
+        "@id": "https://tiempossustentables.cl/tiempos-sustentables-y-la-arquitectura-de-valor/#work"
+      },
+      "breadcrumb": {
+        "@id": "https://tiempossustentables.cl/tiempos-sustentables-y-la-arquitectura-de-valor/#breadcrumb"
+      }
+    },
+    {
+      "@type": "BreadcrumbList",
+      "@id": "https://tiempossustentables.cl/tiempos-sustentables-y-la-arquitectura-de-valor/#breadcrumb",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Inicio",
+          "item": "https://tiempossustentables.cl/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "Tiempos Sustentables y la Arquitectura de Valor",
+          "item": "https://tiempossustentables.cl/tiempos-sustentables-y-la-arquitectura-de-valor/"
+        }
+      ]
+    },
+    {
+      "@type": "MediaObject",
+      "@id": "https://tiempossustentables.cl/wp-content/uploads/2026/07/autosegmentacion-redes-verticales.pdf#pdf",
+      "contentUrl": "https://tiempossustentables.cl/wp-content/uploads/2026/07/autosegmentacion-redes-verticales.pdf",
+      "encodingFormat": "application/pdf",
+      "name": "PDF de La Autosegmentación en las Redes Verticales",
+      "isAccessibleForFree": true,
+      "license": "https://creativecommons.org/licenses/by/4.0/"
+    },
+    {
+      "@type": "Thesis",
+      "@id": "https://tiempossustentables.cl/autosegmentacion-redes-verticales/#work",
+      "url": "https://tiempossustentables.cl/autosegmentacion-redes-verticales/",
+      "name": "La Autosegmentación en las Redes Verticales",
+      "headline": "La Autosegmentación en las Redes Verticales",
+      "description": "Investigación universitaria sobre la segmentación natural de audiencias en redes temáticas y su relación con la eficacia comunicacional.",
+      "author": [
+        {
+          "@id": "https://tiempossustentables.cl/#jesus-blasco"
+        },
+        {
+          "@type": "Person",
+          "name": "Julio Orellana"
+        },
+        {
+          "@type": "Person",
+          "name": "Hiang Melcher"
+        }
+      ],
+      "publisher": {
+        "@id": "https://www.unab.cl/#organization"
+      },
+      "datePublished": "2010",
+      "inLanguage": "es-CL",
+      "isAccessibleForFree": true,
+      "license": "https://creativecommons.org/licenses/by/4.0/",
+      "keywords": [
+        "Autosegmentación",
+        "Redes verticales",
+        "Marketing digital",
+        "Segmentación",
+        "Tesis"
+      ],
+      "mainEntityOfPage": {
+        "@id": "https://tiempossustentables.cl/autosegmentacion-redes-verticales/#webpage"
+      },
+      "identifier": {
+        "@type": "PropertyValue",
+        "propertyID": "DOI",
+        "value": "10.13140/RG.2.2.34373.20969",
+        "url": "https://doi.org/10.13140/RG.2.2.34373.20969"
+      },
+      "sameAs": [
+        "https://doi.org/10.13140/RG.2.2.34373.20969",
+        "https://www.researchgate.net/doi/10.13140/RG.2.2.34373.20969",
+        "https://doi.org/10.13140/rg.2.2.34373.20969"
+      ],
+      "associatedMedia": {
+        "@id": "https://tiempossustentables.cl/wp-content/uploads/2026/07/autosegmentacion-redes-verticales.pdf#pdf"
+      }
+    },
+    {
+      "@type": "WebPage",
+      "@id": "https://tiempossustentables.cl/autosegmentacion-redes-verticales/#webpage",
+      "url": "https://tiempossustentables.cl/autosegmentacion-redes-verticales/",
+      "name": "La Autosegmentación en las Redes Verticales",
+      "inLanguage": "es-CL",
+      "isPartOf": {
+        "@id": "https://tiempossustentables.cl/#website"
+      },
+      "mainEntity": {
+        "@id": "https://tiempossustentables.cl/autosegmentacion-redes-verticales/#work"
+      },
+      "breadcrumb": {
+        "@id": "https://tiempossustentables.cl/autosegmentacion-redes-verticales/#breadcrumb"
+      }
+    },
+    {
+      "@type": "BreadcrumbList",
+      "@id": "https://tiempossustentables.cl/autosegmentacion-redes-verticales/#breadcrumb",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Inicio",
+          "item": "https://tiempossustentables.cl/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "La Autosegmentación en las Redes Verticales",
+          "item": "https://tiempossustentables.cl/autosegmentacion-redes-verticales/"
+        }
+      ]
+    },
+    {
+      "@type": "CreativeWork",
+      "@id": "https://doi.org/10.17605/OSF.IO/BSED6",
+      "name": "Doble materialidad ESG: el puente entre reporting y rentabilidad en América Latina (OSF Registration)",
+      "description": "Descubre cómo la doble materialidad ESG conecta reporting y rentabilidad en América Latina con un modelo de Arquitectura de Valor en 5 bloques aplicable en 90 días.",
+      "datePublished": "2026-10-24",
+      "dateModified": "2026-10-29",
+      "identifier": "https://doi.org/10.17605/OSF.IO/BSED6",
+      "url": "https://osf.io/bsed6",
+      "publisher": {
+        "@type": "Organization",
+        "name": "OSF Registries",
+        "url": "https://osf.io/registries"
+      },
+      "inLanguage": "es-CL"
+    },
+    {
+      "@type": "CreativeWork",
+      "@id": "https://doi.org/10.17605/OSF.IO/76V4J",
+      "name": "Tiempos Sustentables | ESG y Sostenibilidad Corporativa (OSF Registration)",
+      "description": "Plataforma de inteligencia estratégica dedicada a informar, conectar y generar valor mediante sostenibilidad corporativa, economía circular y gobernanza ESG en Chile y América Latina. Registro ISSN 3087-3096 y Registro AW-963536011.",
+      "datePublished": "2026-10-22",
+      "dateModified": "2026-10-29",
+      "identifier": "https://doi.org/10.17605/OSF.IO/76V4J",
+      "url": "https://osf.io/76v4j",
+      "publisher": {
+        "@type": "Organization",
+        "name": "OSF Registries",
+        "url": "https://osf.io/registries"
+      },
+      "inLanguage": "es-CL"
+    },
+    {
+      "@type": "CreativeWork",
+      "@id": "https://doi.org/10.17605/OSF.IO/CHW3J",
+      "name": "Brand Finance Global 500 2026 bajo la Arquitectura de Valor (OSF Preregistration)",
+      "description": "Estudio que contrasta los resultados financieros de Brand Finance Global 500 2026 con la matriz de coherencia sostenible de Tiempos Sustentables para la alta dirección en Latinoamérica.",
+      "datePublished": "2026-10-31",
+      "identifier": "https://doi.org/10.17605/OSF.IO/CHW3J",
+      "url": "https://osf.io/chw3j",
+      "publisher": {
+        "@type": "Organization",
+        "name": "OSF Registries",
+        "url": "https://osf.io/registries"
+      },
+      "inLanguage": "es-CL"
+    },
+    {
+      "@type": "CreativeWork",
+      "@id": "https://doi.org/10.17605/OSF.IO/Q57PZ",
+      "name": "Economía Circular en Chile y América Latina: Arquitectura Regulatoria, Innovación Tecnológica y Valor ESG hacia 2026 (OSF Registration)",
+      "description": "Economía Circular en Chile y LATAM: Guía Estratégica 2026. Una compilación editorial de publicaciones independientes de Tiempos Sustentables para comprender la circularidad desde la regulación, los flujos materiales, la innovación, los modelos de negocio y la creación de valor verificable.",
+      "datePublished": "2026-10-29",
+      "dateModified": "2026-10-29",
+      "identifier": "https://doi.org/10.17605/OSF.IO/Q57PZ",
+      "url": "https://osf.io/q57pz",
+      "publisher": {
+        "@type": "Organization",
+        "name": "OSF Registries",
+        "url": "https://osf.io/registries"
+      },
+      "inLanguage": "es-CL"
+    },
+    {
+      "@type": "CreativeWork",
+      "@id": "https://osf.io/r87vz",
+      "name": "Economía Circular en Chile y LATAM: Guía Estratégica 2026 (Compilación OSF)",
+      "dateCreated": "2026-10-24",
+      "dateModified": "2026-10-30",
+      "url": "https://osf.io/r87vz",
+      "publisher": {
+        "@type": "Organization",
+        "name": "OSF"
+      },
+      "inLanguage": "es-CL"
+    },
+    {
+      "@type": "CreativeWork",
+      "@id": "https://osf.io/tnd4p",
+      "name": "Tiempos Sustentables (Registro AW-963536011)",
+      "dateCreated": "2026-10-22",
+      "dateModified": "2026-10-30",
+      "url": "https://osf.io/tnd4p",
+      "publisher": {
+        "@type": "Organization",
+        "name": "OSF"
+      },
+      "inLanguage": "es-CL"
+    },
+    {
+      "@type": "Dataset",
+      "@id": "https://osf.io/qs9wr",
+      "name": "ISSN 3087-3096 | Tiempos Sustentables Dataset",
+      "description": "Conjunto de datos de Tiempos Sustentables, publicación seriada identificada con el ISSN 3087-3096, alojado en OSF.",
+      "dateCreated": "2026-09-01",
+      "dateModified": "2026-10-30",
+      "url": "https://osf.io/qs9wr",
+      "publisher": {
+        "@type": "Organization",
+        "name": "OSF"
+      },
+      "inLanguage": "es-CL"
+    },
+    {
+      "@type": "ItemList",
+      "@id": "https://tiempossustentables.cl/jesus-blasco/#obras",
+      "name": "Catálogo de obras y registros documentados",
+      "numberOfItems": 16,
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "item": {
+            "@id": "https://tiempossustentables.cl/arquitectura-valor/#work"
+          }
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "item": {
+            "@id": "https://tiempossustentables.cl/brand-finance-2026-valor-marca-sostenibilidad/#work"
+          }
+        },
+        {
+          "@type": "ListItem",
+          "position": 3,
+          "item": {
+            "@id": "https://tiempossustentables.cl/economia-circular-chile-latam/#work"
+          }
+        },
+        {
+          "@type": "ListItem",
+          "position": 4,
+          "item": {
+            "@id": "https://tiempossustentables.cl/doble-materialidad-esg-reporting-rentabilidad-latam/#work"
+          }
+        },
+        {
+          "@type": "ListItem",
+          "position": 5,
+          "item": {
+            "@id": "https://tiempossustentables.cl/el-nuevo-paradigma-de-la-sostenibilidad/#work"
+          }
+        },
+        {
+          "@type": "ListItem",
+          "position": 6,
+          "item": {
+            "@id": "https://tiempossustentables.cl/esg-trends-radar-arquitectura-de-valor-marketing-sostenible/#work"
+          }
+        },
+        {
+          "@type": "ListItem",
+          "position": 7,
+          "item": {
+            "@id": "https://tiempossustentables.cl/tiempos-sustentables-open-data/#work"
+          }
+        },
+        {
+          "@type": "ListItem",
+          "position": 8,
+          "item": {
+            "@id": "https://tiempossustentables.cl/tiempos-sustentables-y-la-arquitectura-de-valor/#work"
+          }
+        },
+        {
+          "@type": "ListItem",
+          "position": 9,
+          "item": {
+            "@id": "https://tiempossustentables.cl/autosegmentacion-redes-verticales/#work"
+          }
+        },
+        {
+          "@type": "ListItem",
+          "position": 10,
+          "item": {
+            "@id": "https://doi.org/10.17605/OSF.IO/BSED6"
+          }
+        },
+        {
+          "@type": "ListItem",
+          "position": 11,
+          "item": {
+            "@id": "https://doi.org/10.17605/OSF.IO/76V4J"
+          }
+        },
+        {
+          "@type": "ListItem",
+          "position": 12,
+          "item": {
+            "@id": "https://doi.org/10.17605/OSF.IO/CHW3J"
+          }
+        },
+        {
+          "@type": "ListItem",
+          "position": 13,
+          "item": {
+            "@id": "https://doi.org/10.17605/OSF.IO/Q57PZ"
+          }
+        },
+        {
+          "@type": "ListItem",
+          "position": 14,
+          "item": {
+            "@id": "https://osf.io/r87vz"
+          }
+        },
+        {
+          "@type": "ListItem",
+          "position": 15,
+          "item": {
+            "@id": "https://osf.io/tnd4p"
+          }
+        },
+        {
+          "@type": "ListItem",
+          "position": 16,
+          "item": {
+            "@id": "https://osf.io/qs9wr"
+          }
+        }
+      ]
+    },
+    {
+      "@type": "Person",
+      "@id": "https://tiempossustentables.cl/#colaborador-1",
+      "name": "Margarita Ducci",
+      "jobTitle": "Directora Ejecutiva, Pacto Global Chile"
+    },
+    {
+      "@type": "Person",
+      "@id": "https://tiempossustentables.cl/#colaborador-2",
+      "name": "Zdenka Astudillo",
+      "jobTitle": "Directora Ejecutiva, Sistema B Chile"
+    },
+    {
+      "@type": "Person",
+      "@id": "https://tiempossustentables.cl/#colaborador-3",
+      "name": "Verónica Prado",
+      "jobTitle": "Vicepresidenta, Cámara Verde de Comercio de Chile"
+    },
+    {
+      "@type": "Person",
+      "@id": "https://tiempossustentables.cl/#colaborador-4",
+      "name": "Gerardo Wijnant",
+      "jobTitle": "Promotor Ecosistema BELAT"
+    },
+    {
+      "@type": "Person",
+      "@id": "https://tiempossustentables.cl/#colaborador-5",
+      "name": "Rosa Madera",
+      "jobTitle": "Fundadora, Empatthy"
+    },
+    {
+      "@type": "ItemList",
+      "@id": "https://tiempossustentables.cl/#colaboradores",
+      "name": "Colaboradores declarados en el export",
+      "numberOfItems": 5,
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "item": {
+            "@id": "https://tiempossustentables.cl/#colaborador-1"
+          }
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "item": {
+            "@id": "https://tiempossustentables.cl/#colaborador-2"
+          }
+        },
+        {
+          "@type": "ListItem",
+          "position": 3,
+          "item": {
+            "@id": "https://tiempossustentables.cl/#colaborador-3"
+          }
+        },
+        {
+          "@type": "ListItem",
+          "position": 4,
+          "item": {
+            "@id": "https://tiempossustentables.cl/#colaborador-4"
+          }
+        },
+        {
+          "@type": "ListItem",
+          "position": 5,
+          "item": {
+            "@id": "https://tiempossustentables.cl/#colaborador-5"
+          }
+        }
+      ]
+    },
+    {
+      "@type": "Organization",
+      "@id": "https://tiempossustentables.cl/#alianza-1",
+      "name": "Red Pacto Global Chile - ONU"
+    },
+    {
+      "@type": "Organization",
+      "@id": "https://tiempossustentables.cl/#alianza-2",
+      "name": "Red Campus Sustentable"
+    },
+    {
+      "@type": "Organization",
+      "@id": "https://tiempossustentables.cl/#alianza-3",
+      "name": "Cámara Verde de Comercio"
+    },
+    {
+      "@type": "Organization",
+      "@id": "https://tiempossustentables.cl/#alianza-4",
+      "name": "Cámara Diseña Sustentable"
+    },
+    {
+      "@type": "Organization",
+      "@id": "https://tiempossustentables.cl/#alianza-5",
+      "name": "Ministerio del Medio Ambiente, Gobierno de Chile"
+    },
+    {
+      "@type": "ItemList",
+      "@id": "https://tiempossustentables.cl/#alianzas-corporativas",
+      "name": "Alianzas declaradas en el export",
+      "numberOfItems": 5,
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "item": {
+            "@id": "https://tiempossustentables.cl/#alianza-1"
+          }
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "item": {
+            "@id": "https://tiempossustentables.cl/#alianza-2"
+          }
+        },
+        {
+          "@type": "ListItem",
+          "position": 3,
+          "item": {
+            "@id": "https://tiempossustentables.cl/#alianza-3"
+          }
+        },
+        {
+          "@type": "ListItem",
+          "position": 4,
+          "item": {
+            "@id": "https://tiempossustentables.cl/#alianza-4"
+          }
+        },
+        {
+          "@type": "ListItem",
+          "position": 5,
+          "item": {
+            "@id": "https://tiempossustentables.cl/#alianza-5"
+          }
+        }
+      ]
+    },
+    {
+      "@type": "CollectionPage",
+      "@id": "https://tiempossustentables.cl/alianzas-estrategicas/#webpage",
+      "url": "https://tiempossustentables.cl/alianzas-estrategicas/",
+      "name": "Alianzas y colaboradores",
+      "inLanguage": "es-CL",
+      "isPartOf": {
+        "@id": "https://tiempossustentables.cl/#website"
+      },
+      "mainEntity": {
+        "@id": "https://tiempossustentables.cl/#alianzas-corporativas"
+      },
+      "breadcrumb": {
+        "@id": "https://tiempossustentables.cl/alianzas-estrategicas/#breadcrumb"
+      },
+      "mentions": [
+        {
+          "@id": "https://tiempossustentables.cl/#colaboradores"
+        }
+      ]
+    },
+    {
+      "@type": "BreadcrumbList",
+      "@id": "https://tiempossustentables.cl/alianzas-estrategicas/#breadcrumb",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Inicio",
+          "item": "https://tiempossustentables.cl/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "Alianzas y colaboradores",
+          "item": "https://tiempossustentables.cl/alianzas-estrategicas/"
+        }
+      ]
+    },
+    {
+      "@type": "ItemList",
+      "@id": "https://tiempossustentables.cl/centro-de-recursos/#lista-recursos",
+      "name": "Recursos ESG",
+      "numberOfItems": 4,
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "item": {
+            "@id": "https://tiempossustentables.cl/centro-de-recursos/#dataset-regulaciones"
+          }
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "item": {
+            "@id": "https://tiempossustentables.cl/centro-de-recursos/#esg-trends-radar"
+          }
+        },
+        {
+          "@type": "ListItem",
+          "position": 3,
+          "item": {
+            "@id": "https://tiempossustentables.cl/centro-de-recursos/#dataset-esg-trends-radar"
+          }
+        },
+        {
+          "@type": "ListItem",
+          "position": 4,
+          "item": {
+            "@id": "https://tiempossustentables.cl/tiempos-sustentables-open-data/#work"
+          }
+        }
+      ]
+    },
+    {
+      "@type": "ItemList",
+      "@id": "https://tiempossustentables.cl/ediciones-especiales/#lista-publicaciones-metodologicas",
+      "name": "Publicaciones Metodológicas — Arquitectura de Valor",
+      "numberOfItems": 8,
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "item": {
+            "@id": "https://tiempossustentables.cl/arquitectura-valor/#work"
+          }
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "item": {
+            "@id": "https://tiempossustentables.cl/brand-finance-2026-valor-marca-sostenibilidad/#work"
+          }
+        },
+        {
+          "@type": "ListItem",
+          "position": 3,
+          "item": {
+            "@id": "https://tiempossustentables.cl/economia-circular-chile-latam/#work"
+          }
+        },
+        {
+          "@type": "ListItem",
+          "position": 4,
+          "item": {
+            "@id": "https://tiempossustentables.cl/doble-materialidad-esg-reporting-rentabilidad-latam/#work"
+          }
+        },
+        {
+          "@type": "ListItem",
+          "position": 5,
+          "item": {
+            "@id": "https://tiempossustentables.cl/el-nuevo-paradigma-de-la-sostenibilidad/#work"
+          }
+        },
+        {
+          "@type": "ListItem",
+          "position": 6,
+          "item": {
+            "@id": "https://tiempossustentables.cl/esg-trends-radar-arquitectura-de-valor-marketing-sostenible/#work"
+          }
+        },
+        {
+          "@type": "ListItem",
+          "position": 7,
+          "item": {
+            "@id": "https://tiempossustentables.cl/tiempos-sustentables-y-la-arquitectura-de-valor/#work"
+          }
+        },
+        {
+          "@type": "ListItem",
+          "position": 8,
+          "item": {
+            "@id": "https://tiempossustentables.cl/autosegmentacion-redes-verticales/#work"
+          }
+        }
+      ]
+    },
+    {
+      "@type": "CollectionPage",
+      "@id": "https://tiempossustentables.cl/ediciones-especiales/#webpage",
+      "url": "https://tiempossustentables.cl/ediciones-especiales/",
+      "name": "Ediciones Especiales y Publicaciones Metodológicas",
+      "inLanguage": "es-CL",
+      "isPartOf": {
+        "@id": "https://tiempossustentables.cl/#website"
+      },
+      "mainEntity": {
+        "@id": "https://tiempossustentables.cl/ediciones-especiales/#lista-publicaciones-metodologicas"
+      },
+      "breadcrumb": {
+        "@id": "https://tiempossustentables.cl/ediciones-especiales/#breadcrumb"
+      }
+    },
+    {
+      "@type": "BreadcrumbList",
+      "@id": "https://tiempossustentables.cl/ediciones-especiales/#breadcrumb",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Inicio",
+          "item": "https://tiempossustentables.cl/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "Ediciones Especiales y Publicaciones Metodológicas",
+          "item": "https://tiempossustentables.cl/ediciones-especiales/"
+        }
+      ]
+    }
+  ]
+}
